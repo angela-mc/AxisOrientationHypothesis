@@ -1,0 +1,1293 @@
+Preferred.society.name,Society.id,Revised.latitude,Revised.longitude,region,continent,Island_check
+Kisama,Ab21a,-10,14,Angola,Africa,0
+Chopi,Ab22,-24.76,34.47,Mozambique,Africa,0
+Kwere,Ad27,-7,39,United Republic of Tanzania,Africa,0
+Zigula,Ad28,-5.84,38.79,United Republic of Tanzania,Africa,0
+Hadimu,Ad29,-6.07,39.43,East Tropical Africa,Africa,1
+Bubi,Ae44,3.54,8.72,Equatorial Guinea:Fernando Po,Africa,1
+Mpongwe,Ae46,-2,10,Gabon,Africa,0
+Puku,Ae47,2,10,Equatorial Guinea:Rio Muni,Africa,0
+Ijaw,Af21,4.37,6.58,West Tropical Africa,Africa,0
+Itsekiri,Af22,6,5,Nigeria,Africa,0
+Isoko,Af25,5,6,Nigeria,Africa,0
+Alagya,Af44,5.22,-4.42,Ivory Coast,Africa,0
+Avikam,Af45,5.15,-5.25,Ivory Coast,Africa,0
+Baga,Ag14,10,-14,West Tropical Africa,Africa,0
+Balanta,Ag15,12,-16,Guinea Bissau,Africa,0
+Banyun,Ag16,12,-16,Guinea Bissau,Africa,0
+Bijogo,Ag18,11.1,-16.15,Guinea Bissau,Africa,1
+Diola,Ag19,12.88,-16.19,Senegal,Africa,0
+Papel,Ag20,12,-16,Guinea Bissau,Africa,0
+Guanche,Cd11,27.99,-15.62,Canary Islands:Gran Canaria,Africa,1
+Moroccans,Cd16,33,-8,Morocco,Africa,0
+Sahel,Cd19,35,10.94,Northern Africa,Africa,0
+Gheg,Ce1,42,20,Albania,Eurasia,0
+Ancient Romans,Ce3,42,12,Italy,Eurasia,0
+Spaniards,Ce6,37,-6,Spain,Eurasia,0
+Tristan da Cunha,Cf3,-37.11,-12.27,Subantarctic Islands,-999,1
+Icelanders,Cg2,64,-20,Iceland,Eurasia,1
+Irish,Cg3,53,-9,Ireland,Eurasia,1
+Abkhaz,Ci12,43,41,Georgia,Eurasia,0
+Syrians,Cj1,36,36,Turkey,Eurasia,0
+Lebanese,Cj7,34,36,Lebanon,Eurasia,0
+Druze,Cj8,32.77,35.03,Israel,Eurasia,0
+Nivkh,Ec1,53,142,Russia:Ostrov Sakhalin,Eurasia,1
+Orok,ec19,54.01,142.71,Russia:Ostrov Sakhalin,Eurasia,1
+Ainu,Ec7,44,144,Japan:Hokkaido,Eurasia,1
+Ishigakians,Ed13,24.46,124.14,Japan:Ishigaki Shima,Eurasia,1
+Miyakans,Ed15a,24.79,125.32,Japan:Miyako Jima,Eurasia,1
+Japanese,Ed5,35,136,Japan:Honshu,Eurasia,1
+Okinawans,Ed7,26.16,127.8,Japan:Okinawa,Eurasia,1
+Li,Ed9,19,109,China:1,Eurasia,1
+Kodavas,Eg5,12,76,India,Eurasia,0
+Kerala,Eg6,11,76,India,Eurasia,0
+Andamanese,Eh1,12,93,India:Havelock Island,Eurasia,1
+Betsileo,Eh10,-22,47,Madagascar,Africa,1
+Merina,Eh2,-19,46,Madagascar,Africa,1
+Tanala,Eh3,-22,47,Madagascar,Africa,1
+Vedda,Eh4,8,81,Sri Lanka,Eurasia,1
+Nicobarese,Eh5,9.17,92.77,India:Car Nicobar Island,Eurasia,1
+Sinhalese,Eh6,7,80,Sri Lanka,Eurasia,1
+Sakalava,Eh8,-21,43.93,Madagascar,Africa,1
+Antaisaka,Eh9,-22.9,47.75,Madagascar,Africa,1
+Negri Sembilan,Ej16,2.58,102,"Malaysia:Malay Penninsula
+",Eurasia,0
+Atayal,Ia1,24,121,Taiwan,Eurasia,1
+Bunun,Ia10,24,121,Taiwan,Eurasia,1
+Sugbuanon,Ia12,10.2,123.65,Philippines:Cebu,Eurasia,1
+Tao,Ia14,22.05,121.55,Eastern Asia,Eurasia,1
+Manobo,Ia15,8,126,Philippines:Mindanao,Eurasia,1
+Kalinga,Ia16,18,121,Philippines:43,Eurasia,1
+Bilaan,Ia17,6,125,Philippines:Mindanao,Eurasia,1
+Sagada,Ia2,17,121,Philippines:43,Eurasia,1
+Ifugao,Ia3,17,121,Philippines:43,Eurasia,1
+Subanun,Ia4,8,123,Philippines:Mindanao,Eurasia,1
+Hanunoo,Ia5,13,121,Philippines:Mindoro,Eurasia,1
+Paiwan,Ia6,22.44,120.77,Taiwan,Eurasia,1
+Tagbanua,Ia7,10,119,Malesia,Eurasia,1
+Bontok,Ia8,17,121,Philippines:43,Eurasia,1
+Ami,Ia9,22.7,121.05,Taiwan,Eurasia,1
+Iban,Ib1,2,112,Malaysia:Sarawak,Eurasia,1
+Javanese,Ib2,-7,110,Indonesia:Java,Eurasia,1
+Balinese,Ib3,-8.18,115.02,Indonesia:Bali,Eurasia,1
+Toba Batak,Ib4,2,99,Indonesia:Sumatra,Eurasia,1
+Kadazan-Dusun,Ib5,6,117,Malaysia:Sarawak,Eurasia,1
+Minangkabau,Ib6,-1,101,Indonesia:Sumatra,Eurasia,1
+Mentaweians,Ib7,-2.93,100.23,Indonesia:Pagai Selatan,Eurasia,1
+Anak Dalam,Ib8,-3,103,Indonesia:Sumatra,Eurasia,1
+Punan,Ib9,3,115,Malaysia:Sarawak,Eurasia,1
+Macassarese,Ic1,-5.31,119.69,Indonesia:Sulawesi,Eurasia,1
+Tobelorese,Ic10,1,128,Indonesia:Halmahera,Eurasia,1
+Ambonese,Ic11,-3.71,128.18,Indonesia:Ambon,Eurasia,1
+Sumbawanese,Ic12,-8.63,117.27,Indonesia:Sumbawa,Eurasia,1
+Kodi,Ic13,-9.66,119.07,Indonesia:Sumba,Eurasia,1
+Alorese,Ic2,-8.22,124.26,Indonesia:Pantar,Eurasia,1
+Rotinese,Ic4,-10.71,123.18,Indonesia:Roti,Eurasia,1
+Toradja,Ic5,-2,121,Indonesia:Sulawesi,Eurasia,1
+Tanimbarese,Ic6,-8.19,130.96,Indonesia:Selaru,Eurasia,1
+Ili-Mandiri,Ic7,-8.33,122.85,Indonesia:Flores,Eurasia,1
+Kei,Ic8,-5.58,133.07,Indonesia:Cut,Eurasia,1
+Sumbanese,Ic9,-10,120,Indonesia:Sumba,Eurasia,1
+Yir Yoront,Id12,-15,142,Australia,Australia,0
+Anindilyagwa,Id13,-13.99,136.6,Australia:Groote Eylandt,Australia,1
+Tiwi,Id3,-11.56,130.81,Australia:Melville Island,Australia,1
+Wikmunkan,Id6,-14,142,Australia,Australia,0
+Murriny Patha,Id7,-14,130,Australia,Australia,0
+Tasmanians (northwestern),Id8,-42,146,Australia:Tasmania,Australia,1
+Mee,Ie1,-4,136,Indonesia:Irian Jaya,Eurasia,1
+Motu,Ie10,-9,147,Papua New Guinea,Australia,1
+Kakoli,Ie11,-6,144,Papua New Guinea,Australia,1
+Kwoma,Ie12,-4,142,Papua New Guinea,Australia,1
+Kiwai,Ie13,-9,143,Papua New Guinea,Australia,1
+Miriam,Ie14,-9.91,144.06,Papuasia,Australia,1
+Abelam,Ie15,-3.79,143.09,Papua New Guinea,Australia,1
+Kutubu,Ie16,-6,143,Papua New Guinea,Australia,1
+Siane,Ie17,-6,145,Papua New Guinea,Australia,1
+Kimam,Ie18,-7.52,138.46,Indonesia:Yos Sudarso,Eurasia,1
+Wantoat,Ie2,-6.15,146.53,Papua New Guinea,Australia,1
+Koita,Ie20,-9,147,Papua New Guinea,Australia,1
+Mailu,Ie21,-10,149,Papua New Guinea,Australia,1
+Mekeo,Ie22,-9,147,Papua New Guinea,Australia,1
+Muju,Ie23,-6,141,Papua New Guinea,Australia,1
+Koiari,Ie24,-9,148,Papua New Guinea,Australia,1
+Mafulu,Ie25,-8,147,Papua New Guinea,Australia,1
+Ngarawapum,Ie26,-6,146,Papua New Guinea,Australia,1
+Banaro,Ie27,-4.56,144.34,Papua New Guinea,Australia,1
+Manam,Ie29,-4.08,145.03,Papuasia,Australia,1
+Arapesh,Ie3,-4,144,Papua New Guinea,Australia,1
+Mimika,Ie30,-4,135,Indonesia:Irian Jaya,Eurasia,1
+Fore,Ie31,-6,145,Papua New Guinea,Australia,1
+Sio,Ie32,-6,147,Papua New Guinea,Australia,1
+Soromadja,Ie33,-2,138,Indonesia:Irian Jaya,Eurasia,1
+Iatmul,Ie35,-4,143,Papua New Guinea,Australia,1
+Samarokena,Ie36,-3,140,Indonesia:Irian Jaya,Eurasia,1
+Star Mountain,Ie37,-5,141,Papua New Guinea,Australia,1
+Dani,Ie38,-4,139,Indonesia:Irian Jaya,Eurasia,1
+Elema,Ie39,-7.82,145.31,Papua New Guinea,Australia,1
+Wogeo,Ie4,-3.24,144.1,Papuasia,Australia,1
+Keraki,Ie5,-9,142,Papua New Guinea,Australia,1
+Waropen,Ie6,-2.14,137.23,Indonesia:Irian Jaya,Eurasia,1
+Enga,Ie7,-6,144,Papua New Guinea,Australia,1
+Purari,Ie8,-7,145,Papua New Guinea,Australia,1
+Orokaiva,Ie9,-9,148,Papua New Guinea,Australia,1
+Palauans,If1,7.45,134.54,Palau:Babelthuap,Australia,1
+Nomoians,If10,6.89,152.74,Northwestern Pacific,Eurasia,1
+Kosraeans,If11,5.31,162.98,Federated States of Micronesia,Australia,1
+Bikinians,If12,11.7,165.29,Northwestern Pacific,Eurasia,1
+Nauruans,If13,-0.53,166.92,Nauru,Australia,1
+Makin,If14,3.38,172.99,Southwestern Pacific,Australia,1
+Carolinians,If15,15.21,145.76,Northern Mariana Islands:Saipan,Australia,1
+Lamotrek,If16,7.46,146.38,Northwestern Pacific,Eurasia,1
+Marshallese,If17,6.28,169.49,Northwestern Pacific,Eurasia,1
+Trukese,If2,7.34,151.6,Federated States of Micronesia,Australia,1
+Majuro,If3,7.09,171.13,Northwestern Pacific,Eurasia,1
+Ifaluk,If4,7.25,144.46,Northwestern Pacific,Eurasia,1
+Ponapeans,If5,6.88,158.22,Federated States of Micronesia,Australia,1
+Yapese,If6,9.55,138.13,Federated States of Micronesia,Australia,1
+Gilbert Onotoa,If7,-1.47,175.06,Southwestern Pacific,Australia,1
+Chamorro,If8,15.13,145.71,Northern Mariana Islands:Saipan,Australia,1
+Ulithians,If9,10.02,139.79,Northwestern Pacific,Eurasia,1
+Siuai,Ig1,-6,155,Papua New Guinea:Bougainville,Australia,1
+Usiai,Ig10,-2,147,Papua New Guinea:Manus Island,Australia,1
+Rossel Islanders,Ig11,-11.36,154.14,Papua New Guinea:Rossel,Australia,1
+Choiseulese,Ig12,-6.69,156.52,Solomon Islands:Choiseul,Australia,1
+Aua,Ig13,-1.74,142.85,Papuasia,Australia,1
+Dahuni,Ig14,-10.41,149.91,Papua New Guinea,Australia,1
+Bwaidoga,Ig16,-9.44,150.33,Papua New Guinea:Goodenough Island,Australia,1
+Kombe,Ig17,-4.67,149.53,Papuasia,Australia,1
+Kwaio,Ig18,-9,161,Solomon Islands:Malaita,Australia,1
+Molima,Ig19,-10,151,Papua New Guinea:Normanby Island,Australia,1
+Trobriands,Ig2,-8.43,151.09,Papua New Guinea:Kiriwina,Australia,1
+Kaoka,Ig20,-9.49,159.82,Solomon Islands:Guadalcanal,Australia,1
+Tangu,Ig21,-3.38,153.31,Papuasia,Australia,1
+Kurtatchi,Ig3,-5.6,154.91,Papua New Guinea:Bougainville,Australia,1
+Lesu,Ig4,-3.06,151.66,Papua New Guinea:New Ireland,Australia,1
+Dobuans,Ig5,-10,151,Papua New Guinea:Normanby Island,Australia,1
+Ulawans,Ig6,-9.63,161.44,Solomon Islands:Maramasike,Australia,1
+Lakalai,Ig7,-5.5,150.81,Papua New Guinea:New Britain,Australia,1
+Simboese,Ig8,-8,157,Solomon Islands:Kolombangara,Australia,1
+Manus,Ig9,-2,147,Papua New Guinea:Manus Island,Australia,1
+Mota,Ih1,-13.84,167.7,Southwestern Pacific,Australia,1
+Tannese,Ih10,-19.6,169.44,Vanuatu:Tanna,Australia,1
+Epi,Ih11,-16.61,168.17,Vanuatu:Epi,Australia,1
+Eromangans,Ih12,-18.85,169.16,Vanuatu:Erromango,Australia,1
+Ranon,Ih13,-16.18,168.15,Vanuatu:Ambrym,Australia,1
+Mbau Fijians,Ih14,-17.81,178.32,Fiji:Viti Levu,Australia,1
+Seniang,Ih2,-16.51,167.47,Vanuatu:Malakula,Australia,1
+Bunlap,Ih3,-15.95,168.22,Vanuatu:Pentecost,Australia,1
+Lau,Ih4,-17.74,-179.31,Southwestern Pacific,Australia,1
+Ajie,Ih5,-21.37,165.47,New Caledonia:Grand Recif de Oatope,Australia,1
+Rotumans,Ih6,-12.5,177.07,Fiji:Rotuma,Australia,1
+Lifu,Ih7,-20.94,167.23,New Caledonia:Ile Lifou,Australia,1
+Vanua Levu,Ih8,-17.81,178.32,Fiji:Viti Levu,Australia,1
+Santa Cruz Islanders,Ih9,-10.73,165.85,Solomon Islands:Nendo,Australia,1
+American Samoans,Ii1,-13.68,-172.41,Samoa:Savai'i,Australia,1
+Rennell Islanders,Ii10,-11.74,160.42,Solomon Islands:Rennel,Australia,1
+Tongans,Ii12,-19.74,-175.07,Southwestern Pacific,Australia,1
+Uveans,Ii13,-13.28,-176.17,Wallis and Futuna:Uvea,Australia,1
+Upolu Samoans,Ii14,-13.94,-171.77,Samoa:Upolu,Australia,1
+Tikopia,Ii2,-12.29,168.83,Southwestern Pacific,Australia,1
+Pukapukans,Ii3,-10.89,-165.84,Southwestern Pacific,Australia,1
+Ellice,Ii4,-7.48,178.68,Southwestern Pacific,Australia,1
+Ontong Java,Ii5,-5.48,159.7,Papuasia,Australia,1
+Tokelau,Ii6,-9.2,-171.85,Southwestern Pacific,Australia,1
+Kapingamarangi,Ii7,1.09,154.8,Northwestern Pacific,Eurasia,1
+Futunans,Ii8,-14.31,-178.11,Wallis and Futuna:Futuna,Australia,1
+Niueans,Ii9,-19.05,-169.86,Niue,Australia,1
+Mangaians,Ij1,-21.93,-157.91,South-Central Pacific,Australia,1
+Tongarevans,Ij10,-9.02,-158.03,Southwestern Pacific,Australia,1
+M—Åori,Ij2,-38.41,176.31,New Zealand:North Island,Australia,1
+Marquesans,Ij3,-8.9,-140.08,French Polynesia:Nuku Hiva,Australia,1
+Manihikians,Ij4,-10.41,-160.98,Southwestern Pacific,Australia,1
+Raroians,Ij5,-15.94,-142.31,South-Central Pacific,Australia,1
+Hawaiians,Ij6,19.89,-155.83,United States of America,North America,1
+Mangarevans,Ij7,-23.12,-134.97,South-Central Pacific,Australia,1
+Tahitians,Ij8,-17.71,-149.54,French Polynesia:Tahiti,Australia,1
+Easter Islanders,Ij9,-27.12,-109.36,Chile:Easter Island,South America,1
+Sivokakmeit,Na11,63.34,-170.3,United States of America,North America,1
+Baffin Island Inuit,Na13,65.24,-64.63,Canada:Baffin Island,North America,1
+Inughuit (Northern Greenland),Na14,78,-70,Greenland,Eurasia,1
+Tasiilaq,Na24,66,-37,Greenland,Eurasia,1
+Kalaallit (West Greenland),Na25,68.66,-51.22,Subarctic America,North America,1
+Copper Inuit,Na3,69,-110,Canada:Victoria Island,North America,1
+Netsilik,Na43,69,-96,Canada:King William Island,North America,1
+Aleut,Na9,53.86,-166.79,United States of America,North America,1
+Haida,Nb1,54,-132,Canada:Graham Island,North America,1
+Lummi,Nb15,48.84,-123.27,Western Canada,North America,0
+Klallam,Nb16,48,-123,United States of America,North America,0
+Quileute,Nb18,47.91,-124.59,United States of America,North America,0
+Twana,Nb2,48,-123,United States of America,North America,0
+Coos,Nb21,43,-124,United States of America,North America,0
+Heiltsuk,Nb23,52,-128,Canada,North America,0
+Makah,Nb24,48.33,-124.62,United States of America,North America,0
+Quinault,Nb25,47.42,-124.16,United States of America,North America,0
+Alsea,Nb28,44,-124,United States of America,North America,0
+Siuslaw,Nb29,44,-124,United States of America,North America,0
+Tututni,Nb31,42,-124,United States of America,North America,0
+Yurok,Nb4,41,-124,United States of America,North America,0
+Eyak,Nb5,60.34,-144.85,United States of America,North America,0
+Tolowa,Nb6,42,-124,United States of America,North America,0
+Tsimshian,Nb7,54.64,-130.25,Canada,North America,0
+Wappo,Nc20,38.22,-122.56,United States of America,North America,0
+Chumash,Nc28,34.44,-119.71,United States of America,North America,0
+Tongva,Nc29,34,-118,United States of America,North America,0
+Kumeyaay,Nc6,32,-116,Mexico,South America,0
+Lillooet,Nd9,50.02,-124.78,Canada,North America,0
+Timucua,Ng8,27,-82,United States of America,North America,0
+Cocopa,Nh19,32,-115,Mexico,South America,0
+Seri,Ni4,29,-112,Mexico,South America,0
+Tequistlatec,Nj14,16,-96,Mexico,South America,0
+Totonac,Nj4,20,-97,Mexico,South America,0
+Guna,Sa1,9,-78,Panama,South America,0
+Kaqchikel,Sa11,14,-91,Guatemala,South America,0
+Jakaltek,Sa15,14,-90,Guatemala,South America,0
+EmberÕç,Sa4,8,-78,Panama,South America,0
+Mam,Sa8,15,-92,Guatemala,South America,0
+Callinago,Sb1,15.41,-61.27,Dominica,South America,1
+Wayuu,Sb6,12,-72,Colombia,South America,0
+TaÕ_no,Sb8,19.94,-75.37,Cuba,South America,1
+Haitians,Sb9,18.41,-72.17,Haiti,South America,1
+Lokono,Sc10,5.95,-56.98,Suriname,South America,0
+Yahgan,Sg1,-55.02,-68.98,Chile:Isla Hoste,South America,1
+Ona,Sg3,-54,-69,Chile:10,South America,1
+Alacaluf,Sg5,-52,-74,Southern South America,South America,1
+!Kung,Aa1,-20,21,Botswana,Africa,0
+Dorobo,Aa2,0,36,Kenya,Africa,0
+Nama,Aa3,-26,18,Namibia,Africa,0
+Bergdama,Aa4,-22,16,Namibia,Africa,0
+Mbuti,Aa5,2,28,Democratic Republic of the Congo,Africa,0
+Sandawe,Aa6,-5,36,United Republic of Tanzania,Africa,0
+Naron,Aa7,-20,24,Botswana,Africa,0
+/Xam,Aa8,-30,23,South Africa,Africa,0
+Hadza,Aa9,-3,35,United Republic of Tanzania,Africa,0
+Herero,Ab1,-21,16,Namibia,Africa,0
+Pondo,Ab10,-31,30,South Africa,Africa,0
+Xhosa,Ab11,-32.89,27.91,South Africa,Africa,0
+Zulu,Ab12,-29,31,South Africa,Africa,0
+Tswana,Ab13,-24,27,South Africa,Africa,0
+Lovedu,Ab14,-24,31,South Africa,Africa,0
+Pedi,Ab15,-25,30,South Africa,Africa,0
+Lenge,Ab16,-25,34,Mozambique,Africa,0
+Ndau,Ab17,-20,34,Mozambique,Africa,0
+Shona,Ab18,-19,31,Zimbabwe,Africa,0
+Ambo,Ab19,-17,16,Angola,Africa,0
+Swazi,Ab2,-27,32,South Africa,Africa,0
+Ngumbi,Ab20,-15,15,Angola,Africa,0
+Bomvana,Ab21b,-32,28,South Africa,Africa,0
+Lozi,Ab3,-15,23,Zambia,Africa,0
+Tsonga,Ab4,-24,32,Mozambique,Africa,0
+Mbundu,Ab5,-12,16,Angola,Africa,0
+Venda,Ab6,-23,30,South Africa,Africa,0
+Nyaneka,Ab7,-15,14,Angola,Africa,0
+Sotho,Ab8,-29,28,Lesotho,Africa,0
+Ndebele,Ab9,-20,28,Zimbabwe,Africa,0
+Ila,Ac1,-16,27,Zambia,Africa,0
+Chewa,Ac10,-14,33,Malawi:3,Africa,0
+Luvale,Ac11,-12,22,Angola,Africa,0
+Chokwe,Ac12,-10,21,Angola,Africa,0
+Tonga,Ac13,-12,34,Malawi:3,Africa,0
+Bakongo,Ac14,-7,15,Angola,Africa,0
+Mbala,Ac15,-5,18,Democratic Republic of the Congo,Africa,0
+Mitsogho,Ac16,-1,12,Gabon,Africa,0
+Suku,Ac17,-6,18,Democratic Republic of the Congo,Africa,0
+Sundi,Ac18,-5,14,Democratic Republic of the Congo,Africa,0
+Teke,Ac19,-3,15,Republic of the Congo,Africa,0
+Pende,Ac2,-6,20,Democratic Republic of the Congo,Africa,0
+Yaka,Ac20,-7,17,Democratic Republic of the Congo,Africa,0
+Bunda,Ac21,-5,19,Democratic Republic of the Congo,Africa,0
+Dzing,Ac22,-4,20,Democratic Republic of the Congo,Africa,0
+Lele,Ac23,-5,21,Democratic Republic of the Congo,Africa,0
+Sakata,Ac24,-3,18,Democratic Republic of the Congo,Africa,0
+Songo,Ac25,-5,18,Democratic Republic of the Congo,Africa,0
+Yanzi,Ac26,-4,18,Democratic Republic of the Congo,Africa,0
+Luchazi,Ac27,-13,23,Angola,Africa,0
+Luimbe,Ac28,-12,18,Angola,Africa,0
+Luwa,Ac29,-7,19,Democratic Republic of the Congo,Africa,0
+Bemba,Ac3,-11,31,Zambia,Africa,0
+Plateau Tonga,Ac30,-18,28,Zimbabwe,Africa,0
+Buye,Ac31,-7,28,Democratic Republic of the Congo,Africa,0
+Kaonde,Ac32,-13,26,Zambia,Africa,0
+Lala,Ac33,-15,31,Mozambique,Africa,0
+Luapula,Ac34,-10,29,Zambia,Africa,0
+Shila,Ac35,-10,28,Democratic Republic of the Congo,Africa,0
+Tumbuka,Ac36,-12,34,Malawi:3,Africa,0
+Kunda,Ac37,-15,32,Mozambique,Africa,0
+Nyanja,Ac38,-16,36,Mozambique,Africa,0
+Nyasa,Ac39,-13,35,Mozambique,Africa,0
+Kuba,Ac4,-5,22,Democratic Republic of the Congo,Africa,0
+Sena,Ac40,-18,35,Mozambique,Africa,0
+Makonde,Ac41,-11,40,Mozambique,Africa,0
+Makua,Ac42,-15,39,Mozambique,Africa,0
+Mambwe,Ac43,9,32,South Sudan,Africa,0
+Lamba,Ac5,-13,28,Zambia,Africa,0
+Ndembu,Ac6,-11,26,Democratic Republic of the Congo,Africa,0
+Yao,Ac7,-13,36,Mozambique,Africa,0
+Yombe,Ac8,-5,13,Democratic Republic of the Congo,Africa,0
+Ngoni,Ac9,-12,33,Zambia,Africa,0
+Bajuni,Ad1,-2,41,East Tropical Africa,Africa,0
+Shambaa,Ad10,-5,38,United Republic of Tanzania,Africa,0
+Bena,Ad11,-9,36,United Republic of Tanzania,Africa,0
+Gusii,Ad12,-1,35,Kenya,Africa,0
+Kiga,Ad13,-3,30,Burundi,Africa,0
+Luguru,Ad14,-8,38,United Republic of Tanzania,Africa,0
+Iwa,Ad15,-10,32,Zambia,Africa,0
+Ngonde,Ad16,-10,34,Malawi:3,Africa,0
+Safwa,Ad17,-8,33,United Republic of Tanzania,Africa,0
+Bende,Ad18,-7,31,United Republic of Tanzania,Africa,0
+Fipa,Ad19,-8,31,United Republic of Tanzania,Africa,0
+Nyoro,Ad2,2,32,Uganda,Africa,0
+Nyamwezi,Ad20,-5,33,United Republic of Tanzania,Africa,0
+Pimbwe,Ad21,-7,31,United Republic of Tanzania,Africa,0
+Sukuma,Ad22,-3,34,United Republic of Tanzania,Africa,0
+Sangu,Ad23,-8,34,United Republic of Tanzania,Africa,0
+Gogo,Ad24,-7,36,United Republic of Tanzania,Africa,0
+Rangi,Ad25,-5,36,United Republic of Tanzania,Africa,0
+Turu,Ad26,-5,34,United Republic of Tanzania,Africa,0
+Chagga,Ad3,-3,37,United Republic of Tanzania,Africa,0
+Digo,Ad30,-4,39,Kenya,Africa,0
+Duruma,Ad31,-4,39,Kenya,Africa,0
+Giriama,Ad32,-3,40,Kenya,Africa,0
+Pokomo,Ad33,-1,40,Kenya,Africa,0
+Kamba,Ad34,-2,38,Kenya,Africa,0
+Meru,Ad35,0,35,Kenya,Africa,0
+Pare,Ad36,-4,38,United Republic of Tanzania,Africa,0
+Teita,Ad37,-4,39,Kenya,Africa,0
+Kara,Ad38,-2,33,United Republic of Tanzania,Africa,0
+Sonjo,Ad39,-3,36,United Republic of Tanzania,Africa,0
+Kikuyu,Ad4,-1,37,Kenya,Africa,0
+Tiriki,Ad40,0,35,Kenya,Africa,0
+Vugusu,Ad41,1,35,Kenya,Africa,0
+Haya,Ad42,-1,32,Uganda,Africa,0
+Kerewe,Ad43,-3,33,United Republic of Tanzania,Africa,0
+Konjo,Ad44,-1,30,Uganda,Africa,0
+Nyankole,Ad45,0,31,Uganda,Africa,0
+Soga,Ad46,1,33,Uganda,Africa,0
+Sumbwa,Ad47,-4,32,United Republic of Tanzania,Africa,0
+Toro,Ad48,1,31,Uganda,Africa,0
+Zinza,Ad49,-3,31,United Republic of Tanzania,Africa,0
+Mbugwe,Ad5,-4,36,United Republic of Tanzania,Africa,0
+Kaguru,Ad50,-6,37,United Republic of Tanzania,Africa,0
+Ngulu,Ad51,-6,38,United Republic of Tanzania,Africa,0
+Nyakyusa,Ad6,-9,34,United Republic of Tanzania,Africa,0
+Ganda,Ad7,1,32,Uganda,Africa,0
+Hehe,Ad8,-8,35,United Republic of Tanzania,Africa,0
+Gisu,Ad9,1,34,Uganda,Africa,0
+Amba,Ae1,1,30,Democratic Republic of the Congo,Africa,0
+Banyaruanda,Ae10,-2,30,Rwanda,Africa,0
+Songola,Ae11,-4,26,Democratic Republic of the Congo,Africa,0
+Duala,Ae12,4,10,Cameroon,Africa,0
+Bashi,Ae13,-2,29,Democratic Republic of the Congo,Africa,0
+Ha,Ae14,-5,30,United Republic of Tanzania,Africa,0
+Hunde,Ae15,-2,28,Democratic Republic of the Congo,Africa,0
+Lulua,Ae16,-6,23,Democratic Republic of the Congo,Africa,0
+Rega,Ae17,-3,28,Democratic Republic of the Congo,Africa,0
+Songye,Ae18,-6,25,Democratic Republic of the Congo,Africa,0
+Garanganze,Ae19,-11,28,Democratic Republic of the Congo,Africa,0
+Kpe,Ae2,4.22,9.27,Cameroon,Africa,0
+Ekonda,Ae20,-2,18,Democratic Republic of the Congo,Africa,0
+Kela,Ae21,-3,23,Democratic Republic of the Congo,Africa,0
+Kutsu,Ae22,-4,22,Democratic Republic of the Congo,Africa,0
+Lalia,Ae23,-1,23,Democratic Republic of the Congo,Africa,0
+Mongo,Ae24,1,22,Democratic Republic of the Congo,Africa,0
+Tetela,Ae25,-4,25,Democratic Republic of the Congo,Africa,0
+Topoke,Ae26,0,24,Democratic Republic of the Congo,Africa,0
+Lokele,Ae27,1,25,Democratic Republic of the Congo,Africa,0
+Ngala,Ae28,1,18,Democratic Republic of the Congo,Africa,0
+Poto,Ae29,2,22,Democratic Republic of the Congo,Africa,0
+Fang,Ae3,1,11,Gabon,Africa,0
+Bira,Ae30,1,29,Democratic Republic of the Congo,Africa,0
+Budu,Ae31,2,28,Democratic Republic of the Congo,Africa,0
+Kumu,Ae32,-1,27,Democratic Republic of the Congo,Africa,0
+Ndaka Babali,Ae33,1,27,Democratic Republic of the Congo,Africa,0
+Plains Bira,Ae34,1,30,Democratic Republic of the Congo,Africa,0
+Rumbi,Ae35,0,28,Democratic Republic of the Congo,Africa,0
+Bombesa,Ae36,1,23,Democratic Republic of the Congo,Africa,0
+Budja,Ae37,3,23,Democratic Republic of the Congo,Africa,0
+Ndoko,Ae38,2,21,Democratic Republic of the Congo,Africa,0
+Ngombe,Ae39,2,20,Democratic Republic of the Congo,Africa,0
+Nkundo,Ae4,0,20,Democratic Republic of the Congo,Africa,0
+Dzem,Ae40,3,14,Cameroon,Africa,0
+Kota,Ae41,1,14,Gabon,Africa,0
+Ngumba,Ae42,3,11,Cameroon,Africa,0
+Sanga,Ae43,2,16,Cameroon,Africa,0
+Kundu,Ae45,10,9,Nigeria,Africa,0
+Bafia,Ae48,5,11,Cameroon,Africa,0
+Bali Nyonga,Ae49,6,10,Cameroon,Africa,0
+Bamileke,Ae5,5,10,Cameroon,Africa,0
+Bamum,Ae50,6,11,Cameroon,Africa,0
+Banen,Ae51,5,11,Cameroon,Africa,0
+Fungom,Ae52,7,10,Nigeria,Africa,0
+Koko,Ae53,4,11,Cameroon,Africa,0
+Kom,Ae54,6,10,Cameroon,Africa,0
+Ndob,Ae55,6,10,Cameroon,Africa,0
+Nsaw,Ae56,6,11,Cameroon,Africa,0
+Nsungli,Ae57,6,11,Cameroon,Africa,0
+Tikar,Ae58,6,12,Cameroon,Africa,0
+Widikum,Ae59,6,10,Cameroon,Africa,0
+Luba,Ae6,-8,26,Democratic Republic of the Congo,Africa,0
+Baboa,Ae7,3,25,Democratic Republic of the Congo,Africa,0
+Rundi,Ae8,-3,30,Burundi,Africa,0
+Fut,Ae9,6,10,Cameroon,Africa,0
+Fon,Af1,7,2,Benin,Africa,0
+Igbo,Af10,6,7,Nigeria,Africa,0
+Toma,Af11,11,-9,Guinea,Africa,0
+Akyem,Af12,7,-1,Ghana,Africa,0
+Ebira,Af13,8,7,Nigeria,Africa,0
+Sherbro,Af14,7.52,-12.69,Sierra Leone:Sherbro Island,Africa,0
+Kpelle,Af15,7,-9,Liberia,Africa,0
+Banyang,Af16,6,9,Nigeria,Africa,0
+Boki,Af17,6,9,Nigeria,Africa,0
+Ekoi,Af18,6,8,Nigeria,Africa,0
+Efik,Af19,5,8,Nigeria,Africa,0
+Kissi,Af2,9,-10,Guinea,Africa,0
+Ibibio,Af20,5,8,Nigeria,Africa,0
+Afikpo,Af23,6,8,Nigeria,Africa,0
+Edo,Af24,6,6,Nigeria,Africa,0
+Kukuruku,Af26,7,6,Nigeria,Africa,0
+Eloyi,Af27,8,8,Nigeria,Africa,0
+Gbagyi,Af28,10,10,Nigeria,Africa,0
+Idoma,Af29,7,8,Nigeria,Africa,0
+Ashanti,Af3,7,-2,Ghana,Africa,0
+Igala,Af30,7,7,Nigeria,Africa,0
+Koro,Af31,18,8,Niger,Africa,0
+Egba,Af32,7,3,Nigeria,Africa,0
+Ekiti,Af33,8,5,Nigeria,Africa,0
+Ife,Af34,7,5,Nigeria,Africa,0
+Adangme,Af35,6,0,Ghana,Africa,0
+Ewe,Af36,7,1,Togo,Africa,0
+Buem,Af37,7.22,0.46,Ghana,Africa,0
+Abron,Af38,7.53,-2.15,Ghana,Africa,0
+Anyi,Af39,7,-4,Ivory Coast,Africa,0
+Yako,Af4,6,8,Nigeria,Africa,0
+Assini,Af40,5.27,-3.58,Ivory Coast,Africa,0
+Attie,Af41,6,-4,Ivory Coast,Africa,0
+Fante,Af42,6,-1,Ghana,Africa,0
+Ga,Af43,6,0,Ghana,Africa,0
+Bakwe,Af46,5,-7,Ivory Coast,Africa,0
+Krahn,Af47,6,-8,Liberia,Africa,0
+Kru,Af48,5,-9,Liberia,Africa,0
+Sapo,Af49,6,-9,Liberia,Africa,0
+Mende,Af5,8,-11,Sierra Leone,Africa,0
+Dan,Af50,8,8,Nigeria,Africa,0
+Gagu,Af51,7,-6,Ivory Coast,Africa,0
+Guro,Af52,7,-6,Ivory Coast,Africa,0
+Tura,Af53,8,-7,Ivory Coast,Africa,0
+Gbande,Af54,8,-10,Liberia,Africa,0
+Gola,Af55,7,-11,Liberia,Africa,0
+Ngere,Af56,7,-8,Ivory Coast,Africa,0
+Temne,Af57,8.46,-12.64,Sierra Leone,Africa,0
+Vai,Af58,6.89,-11.2,Liberia,Africa,0
+Oyo Yoruba,Af6,8,4,Nigeria,Africa,0
+Bete,Af7,6,-7,Ivory Coast,Africa,0
+Nupe,Af8,9,6,Nigeria,Africa,0
+Baule,Af9,8,-5,Ivory Coast,Africa,0
+Bambara,Ag1,13,-7,Mali,Africa,0
+Konkomba,Ag10,10,0,Ghana,Africa,0
+Lobi,Ag11,10,-4,Burkina Faso,Africa,0
+Nankanse,Ag12,10,-1,Ghana,Africa,0
+Kasena,Ag13,11,-1,Ghana,Africa,0
+Biafada,Ag17,12,-15,Guinea Bissau,Africa,0
+Mossi (Yatenga),Ag2,13,-2,Burkina Faso,Africa,0
+Bassari,Ag21,12,-13,Guinea,Africa,0
+Serer,Ag22,14,-12,Mali,Africa,0
+Kasonke,Ag23,13,-11,Mali,Africa,0
+Koranko,Ag24,9,-11,Sierra Leone,Africa,0
+Soninke,Ag25,15,10,Niger,Africa,0
+Susu,Ag26,15,-13,Senegal,Africa,0
+Diula,Ag27,9,-4,Ivory Coast,Africa,0
+Nononke,Ag28,14,-4,Mali,Africa,0
+Samo,Ag29,13,-3,Burkina Faso,Africa,0
+Dogon,Ag3,15,-3,Mali,Africa,0
+Bobo,Ag30,13,-4,Burkina Faso,Africa,0
+Minianka,Ag31,12,-6,Mali,Africa,0
+Senufo,Ag32,10,-6,Ivory Coast,Africa,0
+Dyan,Ag33,11,-3,Burkina Faso,Africa,0
+Dorosie,Ag34,11,-4,Burkina Faso,Africa,0
+Kulango,Ag35,7,-3,Ghana,Africa,0
+Lowiili,Ag36,11,-3,Burkina Faso,Africa,0
+Awuna,Ag37,11,-2,Burkina Faso,Africa,0
+Builsa,Ag38,11,-2,Burkina Faso,Africa,0
+Dagara,Ag39,11,-3,Burkina Faso,Africa,0
+Tallensi,Ag4,11,-1,Ghana,Africa,0
+Isala,Ag40,10,-2,Ghana,Africa,0
+Kusasi,Ag41,11,0,Ghana,Africa,0
+Nunuma,Ag42,12,-3,Burkina Faso,Africa,0
+Vagala,Ag43,8,-2,Ghana,Africa,0
+Dagomba,Ag44,9,0,Ghana,Africa,0
+Gurma,Ag45,12,2,Burkina Faso,Africa,0
+Manprusi,Ag46,10,-1,Ghana,Africa,0
+Mossi (Ouagadougou),Ag47,12,-2,Burkina Faso,Africa,0
+Basari,Ag48,9,1,Togo,Africa,0
+Kabre,Ag49,10,2,Benin,Africa,0
+Birifor,Ag5,10,-3,Burkina Faso,Africa,0
+Moba,Ag50,11,1,Benin,Africa,0
+Somba,Ag51,11,1,Benin,Africa,0
+Tem,Ag52,11,1,Benin,Africa,0
+Bisa,Ag53,12,0,Burkina Faso,Africa,0
+Yalunka,Ag54,10,-12,Guinea,Africa,0
+Futajalonke,Ag6,11,-13,Guinea,Africa,0
+Bozo,Ag7,14,-5,Mali,Africa,0
+Coniagui,Ag8,13,-13,Senegal,Africa,0
+Malinke,Ag9,11,-9,Guinea,Africa,0
+Katab,Ah1,10,8,Nigeria,Africa,0
+Chawai,Ah10,10,9,Nigeria,Africa,0
+Basa,Ah11,8,8,Nigeria,Africa,0
+Basakomo,Ah12,8,7,Nigeria,Africa,0
+Dakakari,Ah13,12,5,Nigeria,Africa,0
+Kamuku,Ah14,11,6,Nigeria,Africa,0
+Reshe,Ah15,11,5,Nigeria,Africa,0
+Angas,Ah16,9,9,Nigeria,Africa,0
+Birom,Ah17,10,9,Nigeria,Africa,0
+Burmawa,Ah18,10,10,Nigeria,Africa,0
+Adara,Ah19,10,8,Nigeria,Africa,0
+Jukun,Ah2,8,10,Nigeria,Africa,0
+Kagoro,Ah20,10,8,Nigeria,Africa,0
+Kurama,Ah21,10,9,Nigeria,Africa,0
+Yergum,Ah22,9,10,Nigeria,Africa,0
+Jibu,Ah23,8,11,Nigeria,Africa,0
+Kentu,Ah24,7,10,Nigeria,Africa,0
+Tigon,Ah25,17,11,Niger,Africa,0
+Ndoro,Ah26,7,11,Nigeria,Africa,0
+Zuande,Ah27,7,11,Nigeria,Africa,0
+Chamba,Ah28,8,11,Nigeria,Africa,0
+Daka,Ah29,8,11,Nigeria,Africa,0
+Tiv,Ah3,7,9,Nigeria,Africa,0
+Longuda,Ah30,10,12,Nigeria,Africa,0
+Mumuye,Ah31,9,12,Nigeria,Africa,0
+Vere,Ah32,9,13,Cameroon,Africa,0
+Yungur,Ah33,10,12,Nigeria,Africa,0
+Bata,Ah34,10,13,Nigeria,Africa,0
+Bura,Ah35,10,12,Nigeria,Africa,0
+Gude,Ah36,10,13,Nigeria,Africa,0
+Hwana,Ah37,10,13,Nigeria,Africa,0
+Kapsiki,Ah38,11,14,Cameroon,Africa,0
+Podokwo,Ah39,11,14,Cameroon,Africa,0
+Mambila,Ah4,7,12,Cameroon,Africa,0
+Margi,Ah5,11,13,Nigeria,Africa,0
+Gure,Ah6,10,8,Nigeria,Africa,0
+Mafa,Ah7,11,14,Cameroon,Africa,0
+Bafute,Ah8,6,12,Cameroon,Africa,0
+Anaguta,Ah9,10,9,Nigeria,Africa,0
+Banda,Ai1,7,22,Central African Republic,Africa,0
+Otoro,Ai10,12,31,Sudan,Africa,0
+Mangbetu,Ai11,3,28,Democratic Republic of the Congo,Africa,0
+Fali,Ai12,10,14,Cameroon,Africa,0
+Laka,Ai13,8,16,Chad,Africa,0
+Mbum,Ai14,7,14,Cameroon,Africa,0
+Mundang,Ai15,10,14,Cameroon,Africa,0
+Namshi,Ai16,9,13,Cameroon,Africa,0
+Gisiga,Ai17,10,14,Cameroon,Africa,0
+Kotoko,Ai18,12,15,Cameroon,Africa,0
+Musgu,Ai19,11,15,Cameroon,Africa,0
+Nyaro,Ai2,11,31,Sudan,Africa,0
+Tupuri,Ai20,10,15,Cameroon,Africa,0
+Bagirmi,Ai21,11,17,Chad,Africa,0
+Sara,Ai22,9,18,Chad,Africa,0
+Bwaka,Ai23,3,19,Democratic Republic of the Congo,Africa,0
+Mandja,Ai24,6,18,Central African Republic,Africa,0
+Mbandja,Ai25,4,21,Democratic Republic of the Congo,Africa,0
+Ngbandi,Ai26,4,22,Democratic Republic of the Congo,Africa,0
+Abarambo,Ai27,4,27,Democratic Republic of the Congo,Africa,0
+Popoi,Ai28,2,26,Democratic Republic of the Congo,Africa,0
+Lendu,Ai29,2,30,Democratic Republic of the Congo,Africa,0
+Azande,Ai3,5,27,Democratic Republic of the Congo,Africa,0
+Lese,Ai30,2,29,Democratic Republic of the Congo,Africa,0
+Logo,Ai31,3,30,Democratic Republic of the Congo,Africa,0
+Lugbara,Ai32,3,32,Uganda,Africa,0
+Madi,Ai33,4,32,South Sudan,Africa,0
+Moru,Ai34,5,30,South Sudan,Africa,0
+Bongo,Ai35,7,29,South Sudan,Africa,0
+Jur,Ai36,8,28,South Sudan,Africa,0
+Koalib,Ai37,12,31,Sudan,Africa,0
+Korongo,Ai38,10,30,South Sudan,Africa,0
+Mesakin,Ai39,11,30,Sudan,Africa,0
+Ingassana,Ai4,11,34,Sudan,Africa,0
+Moro,Ai40,11,30,Sudan,Africa,0
+Tira,Ai41,11,30,Sudan,Africa,0
+Tullishi,Ai42,12,29,Sudan,Africa,0
+Nyimang,Ai43,12,29,Sudan,Africa,0
+Anuak,Ai44,8,34,Ethiopia,Africa,0
+Meban,Ai45,10,34,Sudan,Africa,0
+Koma,Ai46,9,35,Ethiopia,Africa,0
+Mao,Ai47,9,35,Ethiopia,Africa,0
+Mamvu,Ai5,3,29,Democratic Republic of the Congo,Africa,0
+Shilluk,Ai6,10,32,South Sudan,Africa,0
+Gbaya,Ai7,6,16,Central African Republic,Africa,0
+Dilling,Ai8,12,30,Sudan,Africa,0
+Masa,Ai9,10,16,Chad,Africa,0
+Teso,Aj1,2,34,Uganda,Africa,0
+Acholi,Aj10,3,32,Uganda,Africa,0
+Dinka,Aj11,9,29,South Sudan,Africa,0
+Lotuko,Aj12,4,33,South Sudan,Africa,0
+Pojulu,Aj13,4,31,South Sudan,Africa,0
+Kakwa,Aj14,4,31,South Sudan,Africa,0
+Kuku,Aj15,4,32,South Sudan,Africa,0
+Mondari,Aj16,6,31,South Sudan,Africa,0
+Alur,Aj17,2,31,Democratic Republic of the Congo,Africa,0
+Bodi,Aj18,5,35,Kenya,Africa,0
+Didinga,Aj19,4,34,Uganda,Africa,0
+Maasi,Aj2,-2,36,Kenya,Africa,0
+Suri,Aj20,6,35,Ethiopia,Africa,0
+Jie,Aj21,3,34,Uganda,Africa,0
+Labwor,Aj22,3,34,Uganda,Africa,0
+Plains Suk,Aj23,1,36,Kenya,Africa,0
+Toposa,Aj24,5,34,South Sudan,Africa,0
+Keyu,Aj25,0,36,Kenya,Africa,0
+Hill Suk,Aj26,1,36,Kenya,Africa,0
+Sapei,Aj27,1,35,Kenya,Africa,0
+Tatoga,Aj28,-5,35,United Republic of Tanzania,Africa,0
+Samburu,Aj29,1,37,Kenya,Africa,0
+Nuer,Aj3,8,32,South Sudan,Africa,0
+Karamojong,Aj30,2,34,Uganda,Africa,0
+Pari,Aj31,5,33,South Sudan,Africa,0
+Lango,Aj4,2,33,Uganda,Africa,0
+Turkana,Aj5,4,35,Kenya,Africa,0
+Luo,Aj6,-1,34,Kenya,Africa,0
+Nandi,Aj7,0,35,Kenya,Africa,0
+Bari,Aj8,5,32,South Sudan,Africa,0
+Kipsigis,Aj9,-1,36,Kenya,Africa,0
+Konso,Ca1,6,37,Ethiopia,Africa,0
+Esa,Ca10,10,43,Ethiopia,Africa,0
+Arusi,Ca11,8,40,Ethiopia,Africa,0
+Gibe,Ca12,8,37,Ethiopia,Africa,0
+Macha,Ca13,9,37,Ethiopia,Africa,0
+Burji,Ca14,5,38,Ethiopia,Africa,0
+Darasa,Ca15,6,38,Ethiopia,Africa,0
+Sidama,Ca16,7,38,Ethiopia,Africa,0
+Tsamai,Ca17,5,37,Ethiopia,Africa,0
+Arbore,Ca18,5,37,Ethiopia,Africa,0
+Banna,Ca19,6,36,Ethiopia,Africa,0
+Somali,Ca2,8,48,Somalia,Africa,0
+Galab,Ca20,5,36,Ethiopia,Africa,0
+Hamar,Ca21,5,36,Ethiopia,Africa,0
+Male,Ca22,6,37,Ethiopia,Africa,0
+Bako,Ca23,6,37,Ethiopia,Africa,0
+Dime,Ca24,6,36,Ethiopia,Africa,0
+Shangama,Ca25,6,37,Ethiopia,Africa,0
+Ubamer,Ca26,6,37,Ethiopia,Africa,0
+Anfillo,Ca27,9,35,Ethiopia,Africa,0
+Basketo,Ca28,6,37,Ethiopia,Africa,0
+Yem,Ca29,8,38,Ethiopia,Africa,0
+Tigrinya,Ca3,14,39,Ethiopia,Africa,0
+Kafa,Ca30,7,36,Ethiopia,Africa,0
+Beta Israel,Ca31,12,37,Ethiopia,Africa,0
+Nara,Ca32,16,38,Eritrea,Africa,0
+Kunama,Ca33,15,37,Eritrea,Africa,0
+Ababda,Ca34,24,34,Egypt,Africa,0
+Amarar,Ca35,20,36,Sudan,Africa,0
+Beni-Amer,Ca36,18,38,Sudan,Africa,0
+Blin,Ca37,16,36,Sudan,Africa,0
+Tigre,Ca38,17,39,Eritrea,Africa,0
+Jimma,Ca39,8,37,Ethiopia,Africa,0
+Iraqw,Ca4,-4,35,United Republic of Tanzania,Africa,0
+Baditu,Ca40,6,38,Ethiopia,Africa,0
+Dorse,Ca41,6,38,Ethiopia,Africa,0
+Shako,Ca42,7,36,Ethiopia,Africa,0
+Hadendowa,Ca43,18,36,Sudan,Africa,0
+Bisharin,Ca5,20,35,Sudan,Africa,0
+Afar,Ca6,12,42,Ethiopia,Africa,0
+Amhara,Ca7,13,38,Ethiopia,Africa,0
+Gurage,Ca8,8,38,Ethiopia,Africa,0
+Goroa,Ca9,-4,36,United Republic of Tanzania,Africa,0
+Maguzawa,Cb1,12,10,Nigeria,Africa,0
+Karekare,Cb10,12,11,Nigeria,Africa,0
+Midobi,Cb11,16,27,Sudan,Africa,0
+Gimma,Cb12,13,32,Sudan,Africa,0
+Habbaniya,Cb13,11,25,Sudan,Africa,0
+Hemat,Cb14,11,20,Chad,Africa,0
+Messiria Humr,Cb15,11,28,Sudan,Africa,0
+Shuwa,Cb16,13,15,Chad,Africa,0
+Fur,Cb17,12,24,Sudan,Africa,0
+Kanembu,Cb18,14,14,Chad,Africa,0
+Kanuri,Cb19,12,13,Nigeria,Africa,0
+Wolof,Cb2,15,-17,Senegal,Africa,0
+Zerma,Cb20,13,3,Niger,Africa,0
+Djafun,Cb21,8,13,Cameroon,Africa,0
+Liptako,Cb22,14,0,Burkina Faso,Africa,0
+Tukulor,Cb23,14.73,-14.32,Senegal,Africa,0
+Wodaabe Fulani,Cb24,12,12,Nigeria,Africa,0
+Tazarawa,Cb25,14,8,Niger,Africa,0
+Zazzagawa Hausa,Cb26,11,8,Nigeria,Africa,0
+Bachama,Cb27,10,12,Nigeria,Africa,0
+Dera,Cb28,10,12,Nigeria,Africa,0
+Ngizim,Cb29,12,10,Nigeria,Africa,0
+Songhai,Cb3,17,-1,Mali,Africa,0
+Hasania,Cb4,14,32,Sudan,Africa,0
+Buduma,Cb5,13,15,Chad,Africa,0
+Tera,Cb6,11,12,Nigeria,Africa,0
+Bolewa,Cb7,11,11,Nigeria,Africa,0
+Bororo Fulani,Cb8,13,5,Nigeria,Africa,0
+Hausa Kanawa,Cb9,12,9,Nigeria,Africa,0
+Regeibat,Cc1,22,-13,Mauritania,Africa,0
+Asben,Cc10,18,8,Niger,Africa,0
+Azjer,Cc11,25,10,Algeria,Africa,0
+Ifora,Cc12,20,2,Mali,Africa,0
+Udalan Tuareg,Cc13,16,0,Mali,Africa,0
+Daza,Cc14,17,18,Chad,Africa,0
+Drawa,Cc15,31,-7,Morocco,Africa,0
+Chaambra,Cc16,32,3,Algeria,Africa,0
+Delim,Cc17,22,-15,Morocco,Africa,0
+Kunta,Cc18,19,-1,Mali,Africa,0
+Trarza,Cc19,18,-15,Mauritania,Africa,0
+Teda,Cc2,21,17,Chad,Africa,0
+Zenaga,Cc20,18,-8,Mauritania,Africa,0
+Siwans,Cc3,29,26,Egypt,Africa,0
+Mzab,Cc4,33,4,Algeria,Africa,0
+Kel Antessar,Cc5,18,-3,Mali,Africa,0
+Kababish,Cc6,17,31,Sudan,Africa,0
+Barabish,Cc7,20,-5,Mali,Africa,0
+Aulliminden,Cc8,8,2,Benin,Africa,0
+Tuareg Ahaggar,Cc9,23,6,Algeria,Africa,0
+Barabra,Cd1,23,33,Egypt,Africa,0
+Zekara,Cd10,34,-2,Morocco,Africa,0
+Algerians,Cd12,31,2,Algeria,Africa,0
+Hamama,Cd13,30,9,Algeria,Africa,0
+Hamyan,Cd14,35,2,Algeria,Africa,0
+Jebala,Cd15,35,-5,Morocco,Africa,0
+Nail,Cd17,35,5,Algeria,Africa,0
+Saadi,Cd18,30,28,Egypt,Africa,0
+Egyptians,Cd2,25,33,Egypt,Africa,0
+Sanusi,Cd20,31,22,Libya,Africa,0
+Tunisians,Cd21,37,10,Tunisia,Africa,0
+Riffians,Cd3,35,-4,Morocco,Africa,0
+Kabyle,Cd4,36,4,Algeria,Africa,0
+Shluh,Cd5,30,-9,Morocco,Africa,0
+Ancient Egyptians,Cd6,30,31,Egypt,Africa,0
+Beraber,Cd7,33,-7,Morocco,Africa,0
+Shawiya,Cd8,36,7,Algeria,Africa,0
+Tekna,Cd9,28,-11,Morocco,Africa,0
+Portuguese,Ce2,42,-7,Spain,Eurasia,0
+French Basques,Ce4,43,-1,France,Eurasia,0
+Neapolitans,Ce5,40.89,14.25,Italy,Eurasia,0
+Greeks,Ce7,39,23,Greece,Eurasia,0
+Spanish Basques,Ce8,43,-2,Spain,Eurasia,0
+New Englanders,Cf1,42,-73,United States of America,North America,0
+Boers,Cf2,-16,28,Zambia,Africa,0
+Brazilians,Cf4,-23.68,-46.64,Brazil,South America,0
+French Canadians,Cf5,47,-72,Canada,North America,0
+Dutch,Cg1,53,7,Netherlands,Eurasia,0
+Sami,Cg4,68,22,Sweden,Eurasia,0
+Walloons,Cg5,50,5,Belgium,Eurasia,0
+Serbs,Ch1,44,20,Republic of Serbia,Eurasia,0
+Romanians,Ch10,45,26,Romania,Eurasia,0
+Russians,Ch11,53,41,Russia,Eurasia,0
+Bashkir,ch12,54,56,Russia,Eurasia,0
+Besermyan,ch13,58,52,Russia,Eurasia,0
+Chuvash,ch14,57,53,Russia,Eurasia,0
+Erzya Mordvins,ch15,53,50,Russia,Eurasia,0
+Estonians,ch16,59,26,Estonia,Eurasia,0
+Gagauz,ch17,45.44,29.32,Ukraine,Eurasia,0
+Ingrians,ch18,59,29,Russia,Eurasia,0
+Karelians,ch19,64,33,Russia,Eurasia,0
+Hutsuls,Ch2,49,24,Ukraine,Eurasia,0
+Kazan tatar,ch20,55,50,Russia,Eurasia,0
+Latvians,ch21,57,24,Latvia,Eurasia,0
+Lithuanian Karaim,ch22,55,23,Lithuania,Eurasia,0
+Lithuanian Tatar,ch23,55,24,Lithuania,Eurasia,0
+Livs,ch24,57,23,Latvia,Eurasia,0
+Moldovans,ch25,47,29,Moldova,Eurasia,0
+Udmurt,ch26,57,53,Russia,Eurasia,0
+Veps,ch27,61,35,Russia,Eurasia,0
+Votes,ch28,59,29,Russia,Eurasia,0
+Czechs,Ch3,50,16,Czech Republic,Eurasia,0
+Mari,Ch4,43,46,Russia,Eurasia,0
+Bulgarians,Ch5,43,24,Bulgaria,Eurasia,0
+Byelorussians,Ch6,55,28,Belarus,Eurasia,0
+Ukranians,Ch7,48,36,Ukraine,Eurasia,0
+Magyar,Ch8,47,20,Hungary,Eurasia,0
+Lithuanians,Ch9,55,24,Lithuania,Eurasia,0
+Kalmyk,Ci1,46,46,Russia,Eurasia,0
+Armenians,Ci10,40,45,Armenia,Eurasia,0
+Kurd,Ci11,32,44,Iraq,Eurasia,0
+Khevsur,Ci2,43,45,Russia,Eurasia,0
+Kumyk,Ci3,42,48,Russia,Eurasia,0
+Cherkess,Ci4,44,42,Russia,Eurasia,0
+Turks,Ci5,38,30,Turkey,Eurasia,0
+Ossetians,Ci6,43,44,Russia,Eurasia,0
+Chechen,Ci7,43,46,Russia,Eurasia,0
+Georgians,Ci8,42,45,Georgia,Eurasia,0
+Svan,Ci9,43,43,Georgia,Eurasia,0
+Madan,Cj10,31,47,Iraq,Eurasia,0
+Rwala,Cj2,33,37,Syria,Eurasia,0
+Hebrews,Cj3,32,35,Palestine:2,Eurasia,0
+Babylonians,Cj4,32,45,Iraq,Eurasia,0
+Mutair,Cj5,28,47,Saudi Arabia,Eurasia,0
+Jordanians,Cj6,32,36,Jordan,Eurasia,0
+Yemeni,Cj9,15,45,Yemen,Eurasia,0
+Sindhi,Ea1,25,68,Pakistan,Eurasia,0
+Marri,Ea10,30,69,Pakistan,Eurasia,0
+Ghilzai,Ea11,33,68,Afghanistan,Eurasia,0
+Qashqui,Ea12,30,52,Iran,Eurasia,0
+Punjabi,Ea13,32,73,Pakistan,Eurasia,0
+Yusufzai,Ea2,35,72,Pakistan,Eurasia,0
+Hazara,Ea3,35,66,Afghanistan,Eurasia,0
+Kohistani,Ea4,35,73,Pakistan,Eurasia,0
+Nuristani,Ea5,36,71,Afghanistan,Eurasia,0
+Basseri,Ea6,30,34,Egypt,Africa,0
+Moghol,Ea7,34,63,Afghanistan,Eurasia,0
+Bakhtiari,Ea8,33,48,Iran,Eurasia,0
+Iranians,Ea9,36,52,Iran,Eurasia,0
+Kazakh,Eb1,48,70,Kazakhstan,Eurasia,0
+Tu,Eb2,39,100,China,Eurasia,0
+Khalka,Eb3,46,97,Mongolia,Eurasia,0
+Dagur,Eb4,49,125,China,Eurasia,0
+Turkmen,Eb5,38,62,Turkmenistan,Eurasia,0
+Buryat,Eb6,52,107,Russia,Eurasia,0
+Chahar,Eb7,41,115,China,Eurasia,0
+Uzbek,Eb8,43,60,Uzbekistan,Eurasia,0
+Ob Ostyak,Ec10,62,74,Russia,Eurasia,0
+Selkup,Ec11,59,90,Russia,Eurasia,0
+Nganasan,ec12,72,90,Russia,Eurasia,0
+Itelmen,ec13,54.98,161.79,Russia,Eurasia,0
+Ungazikmit,ec14,64,173,Russia,Eurasia,0
+Mansi,ec15,63,62,Russia,Eurasia,0
+Evenk,ec16,55,112,Russia,Eurasia,0
+Negidal,ec17,52,134,Russia,Eurasia,0
+Ulch,ec18,50,136,Russia,Eurasia,0
+Yakut,Ec2,65,125,Russia,Eurasia,0
+Oroch,ec20,51,138,Russia,Eurasia,0
+Udihe,ec21,47,136,Russia,Eurasia,0
+Chukchi,Ec3,66,177,Russia,Eurasia,0
+Yurak-Samoyeds,Ec4,68,75,Russia,Eurasia,0
+Koryak,Ec5,61.99,164.24,Russia,Eurasia,0
+Yukaghir,Ec6,70,145,Russia,Eurasia,0
+Ket,Ec8,62,90,Russia,Eurasia,0
+Nanai,Ec9,47,132,China,Eurasia,0
+Koreans,Ed1,38.134147,126.960754,South Korea,Eurasia,0
+Shantung,Ed10,37,118,China,Eurasia,0
+Man,Ed14,22,105,Vietnam,Eurasia,0
+Chekiang,Ed15b,31,120,China,Eurasia,0
+Cantonese,Ed16,23,113,China,Eurasia,0
+Lolo,Ed2,29,103,China,Eurasia,0
+Manchu,Ed3,45,126,China,Eurasia,0
+Miao,Ed4,26,107,China,Eurasia,0
+Min Chinese,Ed6,24,115,China,Eurasia,0
+Minchia,Ed8,26,100,China,Eurasia,0
+Adi,Ee1,28,95,India,Eurasia,0
+Burusho,Ee2,37,75,China,Eurasia,0
+Lepcha,Ee3,28,89,China,Eurasia,0
+Tibetans,Ee4,30,91,China,Eurasia,0
+Shina,Ee5,35,73,Pakistan,Eurasia,0
+Sherpa,Ee6,28,87,China,Eurasia,0
+Kachari,Ee7,27,90,Bhutan,Eurasia,0
+Magar,Ee8,28,84,Nepal,Eurasia,0
+Santal,Ef1,24,87,India,Eurasia,0
+Bihari,Ef10,25,86,India,Eurasia,0
+Uttar Pradesh,Ef11,26,83,India,Eurasia,0
+Bengali,Ef2,23,88,India,Eurasia,0
+Indo-Iranian,Ef3,30,75,India,Eurasia,0
+Ho,Ef4,22,85,India,Eurasia,0
+Bhil,Ef5,22,74,India,Eurasia,0
+Kurukh,Ef6,23,85,India,Eurasia,0
+Pahari,Ef7,30,78,India,Eurasia,0
+Kashmiri,Ef8,34,75,India,Eurasia,0
+Gujarati,Ef9,20,77,India,Eurasia,0
+Chenchu,Eg1,16,79,India,Eurasia,0
+Telugu,Eg10,18,79,India,Eurasia,0
+Koya,Eg11,19,78,India,Eurasia,0
+Khond,Eg12,18,82,India,Eurasia,0
+Muria Gond,Eg13,20,81,India,Eurasia,0
+Reddi,Eg14,18,82,India,Eurasia,0
+Tamil,Eg2,11,79,India,Eurasia,0
+Madia,Eg3,19,81,India,Eurasia,0
+Toda,Eg4,12,77,India,Eurasia,0
+Hill Bhuiya,Eg7,21,85,India,Eurasia,0
+Kol,Eg8,22,85,India,Eurasia,0
+Baiga,Eg9,22,81,India,Eurasia,0
+Antandroy,Eh7,-25,46,Madagascar,Africa,1
+Garo,Ei1,26,91,India,Eurasia,0
+Chakma,Ei10,23,92,Bangladesh,Eurasia,0
+Aimol,Ei11,25,94,India,Eurasia,0
+Thado,Ei12,25,94,India,Eurasia,0
+Angami,Ei13,26,94,India,Eurasia,0
+Ao,Ei14,27,94,India,Eurasia,0
+Rengma,Ei15,26,94,India,Eurasia,0
+Sema,Ei16,26,95,India,Eurasia,0
+Karbi,Ei17,26,94,India,Eurasia,0
+Palaung,Ei18,23,97,Myanmar,Eurasia,0
+Chin,Ei19,22,94,Myanmar,Eurasia,0
+Lhota,Ei2,27,94,India,Eurasia,0
+Kuki,Ei20,23,92,Bangladesh,Eurasia,0
+Burmese,Ei3,20,95,Myanmar,Eurasia,0
+Maras,Ei4,22,93,Myanmar,Eurasia,0
+Kachin,Ei5,26,97,Myanmar,Eurasia,0
+Purum,Ei6,25,94,India,Eurasia,0
+Karen,Ei7,17.12,97.19,Myanmar,Eurasia,0
+Khasi,Ei8,26,92,India,Eurasia,0
+Mogh,Ei9,20.49,92.64,Myanmar,Eurasia,0
+Lamet,Ej1,20,101,Laos,Eurasia,0
+Rade,Ej10,13,108,Vietnam,Eurasia,0
+Cham,Ej11,11,108,Vietnam,Eurasia,0
+Lawa,Ej12,18,98,Thailand,Eurasia,0
+Muong,Ej13,21,105,Vietnam,Eurasia,0
+Senoi,Ej14,4,102,Malaysia:Malay Penninsula,Eurasia,0
+Ancient Khmer,Ej15,13,104,Cambodia,Eurasia,0
+Mnong Gar,Ej2,12,107,Vietnam,Eurasia,0
+Semang,Ej3,5,101,Malaysia:Malay Penninsula,Eurasia,0
+Annamese,Ej4,17,107,Vietnam,Eurasia,0
+Khmer,Ej5,12,105,Cambodia,Eurasia,0
+Moken,Ej6,11.78,98.28,Indo-China,Eurasia,0
+Akha,Ej7,21,100,Myanmar,Eurasia,0
+Malays,Ej8,5,103,Malaysia:Malay Penninsula,Eurasia,0
+Thai,Ej9,15,100,Thailand,Eurasia,0
+Puyuma,Ia11,23,121,Taiwan,Eurasia,1
+Badjau Tawi-Tawi,Ia13,5.09,119.97,Malesia,Eurasia,1
+Bisayan,Ia18,10,123,Philippines:Negros,Eurasia,1
+Belu,Ic3,-9,126,East Timor,Eurasia,1
+Northern Aranda,Id1,-24,134,Australia,Australia,0
+Walbiri,Id10,-22,132,Australia,Australia,0
+Gidjingali,Id11,-12.29,134.32,Australia,Australia,0
+"Yolngu, Dhuwal",Id2,-12.48,135.96,Australia,Australia,0
+Diyari,Id4,-28,138,Australia,Australia,0
+Kariyarra,Id5,-21,118,Australia,Australia,0
+Ngiyambaa,Id9,-32,146,Australia,Australia,0
+Marind-Amin,Ie19,-8,139,Indonesia:Irian Jaya,Eurasia,1
+Busama,Ie28,-6.69,147.26,Papua New Guinea,Australia,1
+Bgu,Ie34,-2.34,139.6,Indonesia:Irian Jaya,Eurasia,1
+Bakovi,Ig15,-5.42,150.05,Papua New Guinea:New Britain,Australia,1
+Nabesna,Na1,63,-141,Canada,North America,0
+Chugach,Na10,60.72,-146.49,United States of America,North America,0
+Nunamiut,Na12,68,-152,United States of America,North America,0
+Tlicho,Na15,63,-117,Canada,North America,0
+DÕ©l—Ëne,Na16,65,-119,Canada,North America,0
+DeneTha,Na17,61,-120,Canada,North America,0
+Dakelh,Na19,54,-124,Canada,North America,0
+Tareumiut,Na2,71,-157,United States of America,North America,0
+Kutchin,Na20,66,-135,Canada,North America,0
+Caribou Inuit,Na21,63,-96,Canada,North America,0
+Iglulik Inuit,Na22,70,-82,Canada:Baffin Island,North America,0
+Labrador Inuit,Na23,58,-65,Canada,North America,0
+Dena'ina,Na26,62,-144,United States of America,North America,0
+Tahltan,Na27,58,-131,Canada,North America,0
+Sekani,Na28,56,-123,Canada,North America,0
+Beaver,Na29,58,-117,Canada,North America,0
+Dene,Na30,60,-105,Canada,North America,0
+Eastern Cree,Na31,51,-85,Canada,North America,0
+Montagnais,Na32,48,-72,Canada,North America,0
+Northern Saulteaux,Na33,52,-98,Canada,North America,0
+Pekangekum,Na34,52,-94,Canada,North America,0
+Nipigon,Na35,50,-88,Canada,North America,0
+Minnesota Ojibwa,Na36,49,-96,Canada,North America,0
+Rainy River Ojibwe,Na37,49,-92,Canada,North America,0
+Katikitegon,Na38,46,-92,United States of America,North America,0
+Eastern Ojibwa,Na39,46,-85,United States of America,North America,0
+Kaska,Na4,59,-128,Canada,North America,0
+Ottawa,Na40,46,-82,Canada,North America,0
+Mi'kmaq,Na41,47,-65,Canada:27,North America,0
+Potawatomi,Na42,44,-85,United States of America,North America,0
+Taqagmiut,Na44,62,-76,Canada,North America,0
+Mistissini Cree,Na45,51.75,-72.66,Canada,North America,0
+Naskapi,Na5,58,-70,Canada,North America,0
+Nunivak,Na6,60,-166,United States of America,North America,0
+Attawapiskat Cree,Na7,53,-83,Canada,North America,0
+Deg Xit'an,Na8,62,-160,United States of America,North America,0
+Alkatcho,Nb10,53,-126,Canada,North America,0
+Nootka,Nb11,49.16,-125.85,Western Canada,North America,0
+Klahoose,Nb12,51,-125,Canada,North America,0
+Squamish,Nb13,50,-123,Canada,North America,0
+Comox,Nb14,49.72,-124.97,Canada:Vancouver Island,North America,0
+Puyallup,Nb17,47,-122,United States of America,North America,0
+Lower Chinook,Nb19,45.99,-123.77,United States of America,North America,0
+Tillamook,Nb20,44.75,-123.72,United States of America,North America,0
+Tlingit,Nb22,58.12,-133.92,United States of America,North America,0
+Cowichan,Nb26,49.01,-122.73,Canada,North America,0
+StÕ_:lÅç,Nb27,49,-122,Canada,North America,0
+Kwakiutl,Nb3,51,-127.49,Western Canada,North America,0
+Takelma,Nb30,42,-123,United States of America,North America,0
+Shasta,Nb32,41,-122,United States of America,North America,0
+Chimariko,Nb33,41,-123,United States of America,North America,0
+Karuk,Nb34,42,-123,United States of America,North America,0
+Hupa,Nb35,41,-123,United States of America,North America,0
+Wiyot,Nb36,39.81,-123.55,United States of America,North America,0
+Lassik,Nb37,40,-123,United States of America,North America,0
+Mattole-Bear River,Nb38,40.35,-123.47,United States of America,North America,0
+Sinkyone,Nb39,39.73,-123.6,United States of America,North America,0
+Haisla,Nb8,54,-129,Canada,North America,0
+Nuxalk,Nb9,52,-127,Canada,North America,0
+Nomlaki,Nc1,39,-122,United States of America,North America,0
+Achumawi,Nc10,41,-121,United States of America,North America,0
+Yana,Nc11,41,-122,United States of America,North America,0
+Maidu,Nc12,40,-121,United States of America,North America,0
+Nisenan,Nc13,39,-121,United States of America,North America,0
+Wintu,Nc14,41,-122,United States of America,North America,0
+Coast Yuki,Nc15,39.34,-123.77,United States of America,North America,0
+Huchnom,Nc16,39,-123,United States of America,North America,0
+Northern Pomo,Nc17,39,-123,United States of America,North America,0
+Eastern Pomo,Nc18,39,-123,United States of America,North America,0
+Southern Pomo,Nc19,38.55,-122.94,United States of America,North America,0
+TÕ_balulabal,Nc2,39,-118,United States of America,North America,0
+Lake Miwok,Nc21,38.75,-123.2,United States of America,North America,0
+Patwin,Nc22,39,-122,United States of America,North America,0
+Western Mono,Nc23,37,-119,United States of America,North America,0
+Southern Valley Yokuts,Nc24,36,-120,United States of America,North America,0
+Wukchumni,Nc25,36,-119,United States of America,North America,0
+Salinan,Nc26,36,-121,United States of America,North America,0
+Kawaiisu,Nc27,35,-118,United States of America,North America,0
+Northern Foothill Yokuts,Nc3,36,-120,United States of America,North America,0
+Serrano,Nc30,34,-117,United States of America,North America,0
+Cahuilla (Desert),Nc31,33,-116,United States of America,North America,0
+CupeÕ±o,Nc32,33,-117,United States of America,North America,0
+LuiseÕ±o,Nc33,33,-117,United States of America,North America,0
+Kiliwa,Nc34,31,-115,Mexico,South America,0
+Atsugewi,Nc4,41,-121,United States of America,North America,0
+Central Sierra Miwok,Nc5,38,-120,United States of America,North America,0
+Yuki,Nc7,40,-123,United States of America,North America,0
+Klamath,Nc8,43,-122,United States of America,North America,0
+Modoc,Nc9,42,-122,United States of America,North America,0
+Tenino,Nd1,45,-121,United States of America,North America,0
+Nlaka'pamux,Nd10,50,-122,Canada,North America,0
+Shuswap,Nd11,51,-120,Canada,North America,0
+Bitterroot Salish,Nd12,46,-113,United States of America,North America,0
+Kalispel,Nd13,49,-117,Canada,North America,0
+Coeur d_ÑéAlene,Nd14,48,-117,United States of America,North America,0
+Sinkaitk,Nd15,49,-120,Canada,North America,0
+Wenatchi,Nd16,48,-121,United States of America,North America,0
+Klikitat,Nd17,46,-122,United States of America,North America,0
+Wishram,Nd18,46,-121,United States of America,North America,0
+Umatilla,Nd19,46,-119,United States of America,North America,0
+Southern Ute,Nd2,38,-109,United States of America,North America,0
+Nez Perce,Nd20,45,-115,United States of America,North America,0
+Tagotoka,Nd21,43,-117,United States of America,North America,0
+Wadadokado,Nd22,43,-119,United States of America,North America,0
+Atsakudokwa,Nd23,42,-118,United States of America,North America,0
+Kidutokado,Nd24,42,-120,United States of America,North America,0
+Sawakudokwa,Nd25,41,-118,United States of America,North America,0
+Wadatkuht,Nd26,41,-120,United States of America,North America,0
+Kuyuidokado,Nd27,40,-119,United States of America,North America,0
+Toedokado,Nd28,40,-118,United States of America,North America,0
+Tunava (Deep Springs and Fish Lake),Nd29,37,-118,United States of America,North America,0
+Havasupai,Nd3,36,-112,United States of America,North America,0
+Eastern Mono,Nd30,37,-118,United States of America,North America,0
+Koso,Nd31,36,-118,United States of America,North America,0
+TÕ_mpisa Shoshone (Saline and Panamint),Nd32,36,-117,United States of America,North America,0
+Beatty,Nd33,37,-116,United States of America,North America,0
+Lida Shoshoni,Nd34,37,-117,United States of America,North America,0
+Mahaguaduka,Nd35,39,-117,United States of America,North America,0
+Wiyambituka,Nd36,39,-117,United States of America,North America,0
+Railroad Valley Shoshoni,Nd37,39,-116,United States of America,North America,0
+Ely Shoshoni,Nd38,39,-115,United States of America,North America,0
+Spring Valley Shoshoni,Nd39,40,-115,United States of America,North America,0
+Sanpoil,Nd4,48,-119,United States of America,North America,0
+Tubaduka,Nd40,40,-113,United States of America,North America,0
+Wadaduka,Nd41,41,-116,United States of America,North America,0
+Elko Shoshoni,Nd42,41,-116,United States of America,North America,0
+White Knife Shoshoni,Nd43,41,-117,United States of America,North America,0
+Yahanduka,Nd44,42,-115,United States of America,North America,0
+Bohogue,Nd45,43,-112,United States of America,North America,0
+Agaiduka,Nd46,44,-112,United States of America,North America,0
+Tukudika,Nd47,44,-111,United States of America,North America,0
+Gosiute,Nd48,40,-114,United States of America,North America,0
+Antarianunts,Nd49,37,-110,United States of America,North America,0
+Hukundika,Nd5,42,-112,United States of America,North America,0
+Panguitch,Nd50,38,-112,United States of America,North America,0
+Moapa,Nd51,36,-115,United States of America,North America,0
+Shivwits,Nd52,36,-117,United States of America,North America,0
+Southern Paiute (Kaibab),Nd53,36,-113,United States of America,North America,0
+Chemehuevi,Nd54,35,-115,United States of America,North America,0
+Southern Paiute (Las Vegas),Nd55,36,-115,United States of America,North America,0
+San Juan,Nd56,36,-111,United States of America,North America,0
+Pahvant,Nd57,39,-113,United States of America,North America,0
+Uintah Ute,Nd58,40,-112,United States of America,North America,0
+Moanunts,Nd59,39,-112,United States of America,North America,0
+Washo,Nd6,39,-120,United States of America,North America,0
+Moache,Nd60,37,-105,United States of America,North America,0
+Taviwatsiu,Nd61,40,-105,United States of America,North America,0
+Uncompahgre Ute,Nd62,39,-107,United States of America,North America,0
+Bannock,Nd63,43,-112,United States of America,North America,0
+Wind River Eastern Shoshone,Nd64,43,-109,United States of America,North America,0
+Hualapai,Nd65,36,-114,United States of America,North America,0
+Yavapai,Nd66,35,-112,United States of America,North America,0
+Tolkepaya,Nd67,34,-114,United States of America,North America,0
+Kutenai,Nd7,50,-117,Canada,North America,0
+Chilcotin,Nd8,52,-122,Canada,North America,0
+Gros Ventre,Ne1,48.78,-108.98,United States of America,North America,0
+Arikara,Ne10,46,-101,United States of America,North America,0
+Assiniboine,Ne11,48,-106,United States of America,North America,0
+Blackfoot,Ne12,51,-112,Canada,North America,0
+Kainai,Ne13,51,-115,Canada,North America,0
+Bungi,Ne14,51,-100,Canada,North America,0
+Hidatsa,Ne15,47,-101,United States of America,North America,0
+Karankawa,Ne16,29,-96,United States of America,North America,0
+Kiowa,Ne17,36,-99,United States of America,North America,0
+Piegan,Ne18,49,-115,Canada,North America,0
+Plains Cree,Ne19,45,-94,United States of America,North America,0
+Kiowa Apache,Ne2,36,-99,United States of America,North America,0
+Santee,Ne20,45,-94,United States of America,North America,0
+Coahuilteco,Ne21,29,-99,United States of America,North America,0
+Comanche,Ne3,33,-100,United States of America,North America,0
+Crow,Ne4,45,-108,United States of America,North America,0
+Cheyenne,Ne5,39,-104,United States of America,North America,0
+Mandan,Ne6,47,-101,United States of America,North America,0
+Sarcee,Ne7,54,-110,Canada,North America,0
+Teton,Ne8,43,-103,United States of America,North America,0
+Arapaho,Ne9,40,-103,United States of America,North America,0
+Iowa,Nf10,41,-95,United States of America,North America,0
+Otoe,Nf11,40,-95,United States of America,North America,0
+Ponca,Nf12,43,-99,United States of America,North America,0
+Shawnee,Nf13,37,-85,United States of America,North America,0
+Caddo,Nf14,33,-93,United States of America,North America,0
+Kickapoo,Nf15,43,-90,United States of America,North America,0
+Ho Chunk,Nf2,44,-88,United States of America,North America,0
+Omaha,Nf3,41,-96,United States of America,North America,0
+Myaamia,Nf4,40,-86,United States of America,North America,0
+Wichita,Nf5,34,-98,United States of America,North America,0
+Pawnee,Nf6,42,-100,United States of America,North America,0
+Fox,Nf7,45,-95,United States of America,North America,0
+Hasinai,Nf8,31,-95,United States of America,North America,0
+Menominee,Nf9,46,-88,United States of America,North America,0
+Huron,Ng1,44,-78,Canada,North America,0
+Seneca,Ng10,43,-77,United States of America,North America,0
+Yuchi,Ng11,35,-86,United States of America,North America,0
+Choctaw,Ng12,33,-88,United States of America,North America,0
+Abenaki,Ng13,46,-70,United States of America,North America,0
+Chickasaw,Ng14,35,-85,United States of America,North America,0
+Chitimacha,Ng15,30,-90,United States of America,North America,0
+Seminole,Ng2,27,-81,United States of America,North America,0
+Muscogee,Ng3,33,-84,United States of America,North America,0
+Penobscot,Ng4,45,-68,United States of America,North America,0
+Cherokee,Ng5,36,-83,United States of America,North America,0
+Delaware,Ng6,41,-75,United States of America,North America,0
+Natchez,Ng7,32,-91,United States of America,North America,0
+Catawba,Ng9,35,-80,United States of America,North America,0
+Chiricahua,Nh1,31,-108,Mexico,South America,0
+Isleta,Nh10,35,-107,United States of America,North America,0
+San Ildefonso,Nh11,36,-106,United States of America,North America,0
+Santa Ana,Nh12,35,-107,United States of America,North America,0
+Acoma,Nh13,35,-108,United States of America,North America,0
+Laguna,Nh14,35,-107,United States of America,North America,0
+Mescalero,Nh15,33,-103,United States of America,North America,0
+Jicarilla,Nh16,36,-104,United States of America,North America,0
+Western Apache,Nh17,34,-110,United States of America,North America,0
+Hopi,Nh18,36,-111,United States of America,North America,0
+Hano,Nh2,36,-111,United States of America,North America,0
+Kamia,Nh20,33,-115,United States of America,North America,0
+Mojave,Nh21,35,-114,United States of America,North America,0
+Quechan,Nh22,33,-114,United States of America,North America,0
+Kewyipaya,Nh23,34,-111,United States of America,North America,0
+Lipan Apache,Nh24,30,-100,United States of America,North America,0
+Sia,Nh25,36,-107,United States of America,North America,0
+Santa Clara,Nh26,36,-106,United States of America,North America,0
+Kewa,Nh27,36,-105,United States of America,North America,0
+Navajo,Nh3,37,-110,United States of America,North America,0
+Zuni,Nh4,35,-109,United States of America,North America,0
+Maricopa,Nh5,33,-113,United States of America,North America,0
+Taos,Nh6,37,-106,United States of America,North America,0
+Cochiti,Nh7,36,-106,United States of America,North America,0
+Jemez,Nh8,36,-107,United States of America,North America,0
+Picuris,Nh9,36,-106,United States of America,North America,0
+Tarahumara,Ni1,28,-107,Mexico,South America,0
+Tohono O'odham,Ni2,31,-112,Mexico,South America,0
+Huichol,Ni3,23,-104,Mexico,South America,0
+Chichimeca,Ni5,22,-100,Mexico,South America,0
+Pima,Ni6,31,-111,Mexico,South America,0
+Yaqui,Ni7,28,-110,Mexico,South America,0
+Opata,Ni8,30,-110,Mexico,South America,0
+TepehuÕçn,Ni9,27,-107,Mexico,South America,0
+Chinantec,Nj1,18,-96,Mexico,South America,0
+Zapotec,Nj10,17,-96,Mexico,South America,0
+Huastec,Nj11,22,-99,Mexico,South America,0
+Mixtec,Nj12,18,-98,Mexico,South America,0
+OtomÕ_,Nj13,20,-99,Mexico,South America,0
+Aztec,Nj2,19,-99,Mexico,South America,0
+Sierra Popoluca,Nj3,18,-95,Mexico,South America,0
+Mazateco,Nj5,18,-97,Mexico,South America,0
+Huave,Nj6,16.22,-95.02,Mexico,South America,0
+Mixe,Nj7,17,-95,Mexico,South America,0
+Tarasco,Nj8,19,-101,Mexico,South America,0
+Tlaxcalans,Nj9,19,-98,Mexico,South America,0
+Lacandon,Sa10,17,-92,Mexico,South America,0
+Lenca,Sa12,14,-88,Honduras,South America,0
+K'iche',Sa13,15,-91,Guatemala,South America,0
+NgÕ_be,Sa14,8,-81,Panama,South America,0
+Tolupan,Sa16,15,-87,Honduras,South America,0
+Poqomam,Sa17,15,-91,Guatemala,South America,0
+Tzeltal,Sa2,17,-92,Mexico,South America,0
+Ch'orti',Sa3,14,-89,El Salvador,South America,0
+Bribri,Sa5,9,-83,Costa Rica,South America,0
+Yucatec Maya,Sa6,18,-90,Mexico,South America,0
+Garifuna,Sa7,16,-89,Belize,South America,0
+Miskito,Sa9,13,-85,Nicaragua,South America,0
+CÕçgaba,Sb2,11,-74,Colombia,South America,0
+BarÕ_ (Motilon),Sb3,9,-72,Venezuela,South America,0
+CariÕ±a,Sb4,9,-64,Venezuela,South America,0
+Paraujano,Sb5,11,-72,Venezuela,South America,0
+Yupa,Sb7,9,-72,Venezuela,South America,0
+Warao,Sc1,9,-62,Venezuela,South America,0
+Camaracoto,Sc11,6,-63,Venezuela,South America,0
+Macushi,Sc12,4,-59,Guyana,South America,0
+Panare,Sc13,6,-66,Venezuela,South America,0
+Rucuyen,Sc14,3,-55,Suriname,South America,0
+TaulÕ_pang,Sc15,4,-62,Brazil,South America,0
+Ye'kuana,Sc16,3,-65,Venezuela,South America,0
+Piapoco,Sc17,6,-68,Colombia,South America,0
+Ndyuka,Sc18,5,-54,French Guiana,South America,0
+PumÕ©,Sc2,7,-68,Venezuela,South America,0
+Barama River Carib,Sc3,5,-59,Guyana,South America,0
+Guahibo,Sc4,5,-69,Colombia,South America,0
+Wapishana,Sc5,3,-60,Brazil,South America,0
+Saramaccan ,Sc6,4,-56,Suriname,South America,0
+Yabarana,Sc7,5,-66,Venezuela,South America,0
+Piaroa,Sc8,5,-67,Venezuela,South America,0
+Curripaco,Sc9,5,-67,Venezuela,South America,0
+Munduruku,Sd1,-6,-58,Brazil,South America,0
+TapirapÕ©,Sd2,-11,-52,Brazil,South America,0
+Palikur,Sd3,3,-52,Brazil,South America,0
+Guaica,Sd4,2,-65,Venezuela,South America,0
+SaterÕ© MawÕ©,Sd5,-4,-57,Brazil,South America,0
+Shiriana,Sd6,4,-63,Venezuela,South America,0
+Wai-wai,Sd7,1,-59,Brazil,South America,0
+Sanema,Sd8,4,-66,Venezuela,South America,0
+Yanomami,Sd9,2,-65,Venezuela,South America,0
+SirionÕ_,Se1,-16,-64,Bolivia,South America,0
+Cocama,Se10,1,-79,Ecuador,South America,0
+ChÕçcobo,Se11,-12,-67,Bolivia,South America,0
+Tucano,Se12,0,-70,Brazil,South America,0
+Ticuna,Se2,-3,-70,Colombia,South America,0
+Shuar,Se3,-3,-78,Ecuador,South America,0
+Yagua,Se4,-3,-72,Peru,South America,0
+Cubeo,Se5,1,-71,Colombia,South America,0
+Witoto,Se6,-1,-74,Colombia,South America,0
+Camba,Se7,-18,-63,Bolivia,South America,0
+Amahuaca,Se8,-10,-72,Brazil,South America,0
+Shipibo-Conibo,Se9,-9,-74,Peru,South America,0
+Inca,Sf1,-13,-72,Peru,South America,0
+Aymara,Sf2,-16,-69,Bolivia,South America,0
+Chachi,Sf3,1,-79,Ecuador,South America,0
+U'wa,Sf4,7,-72,Colombia,South America,0
+PÕçez,Sf5,3,-76,Colombia,South America,0
+Muisca,Sf6,5,-72,Colombia,South America,0
+AshÕçninka,Sf7,-8,-75,Peru,South America,0
+Piro,Sf8,-12,-73,Peru,South America,0
+Uru,Sf9,-16,-69,Bolivia,South America,0
+Mapuche,Sg2,-39,-68,Argentina,South America,0
+Tehuelche,Sg4,-46,-70,Argentina,South America,0
+WichÕ_,Sh1,-24,-63,Argentina,South America,0
+Terena,Sh2,-21,-58,Paraguay,South America,0
+AbipÕ_n,Sh3,-29,-61,Argentina,South America,0
+KadiwÕ©u,Sh4,-22,-57,Brazil,South America,0
+Choroti,Sh5,-22,-62,Paraguay,South America,0
+Chamacoco,Sh6,-20,-59,Paraguay,South America,0
+GuaranÕ_,Sh7,-20,-63,Bolivia,South America,0
+Toba,Sh8,-25,-60,Argentina,South America,0
+Lengua,Sh9,-23,-59,Paraguay,South America,0
+Bororo,Si1,-16,-55,Brazil,South America,0
+Kuikuru,Si10,-13,-54,Brazil,South America,0
+Trumai,Si2,-12,-53,Brazil,South America,0
+Bacairi,Si3,-14,-55,Brazil,South America,0
+Nambikwara,Si4,-12,-59,Brazil,South America,0
+KamayurÕç,Si5,-12,-54,Brazil,South America,0
+GuatÕ_,Si6,-19,-58,Bolivia,South America,0
+Paresi,Si7,-15,-58,Brazil,South America,0
+Umotina,Si8,-15,-57,Brazil,South America,0
+Aweti,Si9,-12,-54,Brazil,South America,0
+CarajÕç,Sj1,-12,-50,Brazil,South America,0
+Cayua,Sj10,-26,-54,Argentina,South America,0
+Shavante,Sj11,-14,-52,Brazil,South America,0
+Sherente,Sj2,-9,-48,Brazil,South America,0
+Aweikoma,Sj3,-28,-50,Brazil,South America,0
+Canela,Sj4,-7,-45,Brazil,South America,0
+AimorÕ©,Sj5,-18,-42,Brazil,South America,0
+Tenetehara,Sj6,-3,-46,Brazil,South America,0
+Apinaye,Sj7,-6,-49,Brazil,South America,0
+TupinambÕç,Sj8,-8,-35,Brazil,South America,0
+Kayapo,Sj9,-8,-52,Brazil,South America,0
