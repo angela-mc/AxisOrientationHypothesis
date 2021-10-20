@@ -1,0 +1,583 @@
+Trait,Original code,New code,Original_name,New_name,Category,Category2,Notes
+EA001,NA,NA,NA,NA,"Subsistence, Economy",Subsistence,"Ordinal data, not well suited for assigning sharing/non-sharing of culture status for pairs of societies. Excluded from analyses."
+EA002,NA,NA,NA,NA,"Subsistence, Economy",Subsistence,"Ordinal data, not well suited for assigning sharing/non-sharing of culture status for pairs of societies. Excluded from analyses."
+EA003,NA,NA,NA,NA,"Subsistence, Economy",Subsistence,"Ordinal data, not well suited for assigning sharing/non-sharing of culture status for pairs of societies. Excluded from analyses."
+EA004,NA,NA,NA,NA,"Subsistence, Economy",Subsistence,"Ordinal data, not well suited for assigning sharing/non-sharing of culture status for pairs of societies. Excluded from analyses."
+EA005,NA,NA,NA,NA,"Subsistence, Economy",Subsistence,"Ordinal data, not well suited for assigning sharing/non-sharing of culture status for pairs of societies. Excluded from analyses."
+EA006,NA,NA,Missing data,Missing data,"Marriage, Kinship, Wealth Transactions, Economy","Marriage, Kinship",Do societies share the prevailing type of transfer/exchange at marriage?
+EA006,1,1,Bride-wealth,Bride-wealth,"Marriage, Kinship, Wealth Transactions, Economy","Marriage, Kinship",
+EA006,2,2,Bride-service,Bride-service,"Marriage, Kinship, Wealth Transactions, Economy","Marriage, Kinship",
+EA006,3,3,Token bride-wealth,Token bride-wealth,"Marriage, Kinship, Wealth Transactions, Economy","Marriage, Kinship",
+EA006,4,4,Gift exchange,Gift exchange,"Marriage, Kinship, Wealth Transactions, Economy","Marriage, Kinship",
+EA006,5,5,Woman exchange,Woman exchange,"Marriage, Kinship, Wealth Transactions, Economy","Marriage, Kinship",
+EA006,6,6,Insignificant,Insignificant,"Marriage, Kinship, Wealth Transactions, Economy","Marriage, Kinship","Insignificant is left as a category, rather than replaced with NA. In these societies marriages and exchanges at marriage still happen, and the type of transfer differs from other societies by being small/absent."
+EA006,7,7,Dowry,Dowry,"Marriage, Kinship, Wealth Transactions, Economy","Marriage, Kinship",
+EA007,NA,NA,NA,NA,"Marriage, Kinship, Wealth Transactions, Economy","Marriage, Kinship","For the goals of this analysis, redundant to EA006, as it represents alternative types of transfer or exchange at marriage. Excluded from analyses."
+EA008,NA,Missing data,Missing data,Missing data,"Marriage, Kinship","Marriage, Kinship",Do societies share the type of domestic organization (defined based on both mating system and organization of families)?.
+EA008,1,1,"Nuclear, monogamous","Nuclear, monogamous","Marriage, Kinship","Marriage, Kinship",
+EA008,2,2,"Nuclear, limited polygyny","Nuclear, limited polygyny","Marriage, Kinship","Marriage, Kinship",
+EA008,3,3,Polyandrous,Polyandrous,"Marriage, Kinship","Marriage, Kinship",
+EA008,4,4,"Polygyny, atypical cowives pattern","Polygyny, atypical cowives pattern","Marriage, Kinship","Marriage, Kinship",
+EA008,5,5,"Polygyny, typical cowives pattern","Polygyny, typical cowives pattern","Marriage, Kinship","Marriage, Kinship",
+EA008,6,6,Minimal extended,Minimal extended,"Marriage, Kinship","Marriage, Kinship",
+EA008,7,7,Small extended,Small extended,"Marriage, Kinship","Marriage, Kinship",
+EA008,8,8,Large extended,Large extended,"Marriage, Kinship","Marriage, Kinship",
+EA009,NA,NA,Missing data,Missing data,"Marriage, Kinship","Marriage, Kinship","Do societies share the marital composition of family units, defined using both mating system and other aspects such sororal/non-sororal polygyny and the organization of co-wives quarters?"
+EA009,1,1,Monogamous,Monogamous,"Marriage, Kinship","Marriage, Kinship",
+EA009,2,2,Limited polygyny,Limited polygyny,"Marriage, Kinship","Marriage, Kinship",
+EA009,3,3,"Polygyny, sororal cohabit","Polygyny, sororal cohabit","Marriage, Kinship","Marriage, Kinship",
+EA009,4,4,"Polygyny, sororal separate","Polygyny, sororal separate","Marriage, Kinship","Marriage, Kinship",
+EA009,5,5,"Polygyny, non-sororal cohabit","Polygyny, non-sororal cohabit","Marriage, Kinship","Marriage, Kinship",
+EA009,6,6,"Polygyny, non-sororal separate","Polygyny, non-sororal separate","Marriage, Kinship","Marriage, Kinship",
+EA009,7,7,Polyandrous,Polyandrous,"Marriage, Kinship","Marriage, Kinship",
+EA010,NA,NA,Missing data,Missing data,"Marriage, Kinship","Marriage, Kinship",Do societies share the pattern of marital residence with kin (first years after marriage)? 
+EA010,1,1,Avunculocal,Avunculocal,"Marriage, Kinship","Marriage, Kinship",
+EA010,2,2,Ambilocal,Ambilocal,"Marriage, Kinship","Marriage, Kinship",
+EA010,3,3,Avuncu-uxorilocal,Avuncu-uxorilocal,"Marriage, Kinship","Marriage, Kinship",
+EA010,4,4,Avuncu-virilocal,Avuncu-virilocal,"Marriage, Kinship","Marriage, Kinship",
+EA010,5,5,Matrilocal,Matrilocal,"Marriage, Kinship","Marriage, Kinship",
+EA010,6,6,Neolocal,Neolocal,"Marriage, Kinship","Marriage, Kinship",
+EA010,7,7,Separate,Separate,"Marriage, Kinship","Marriage, Kinship",
+EA010,8,8,Patrilocal,Patrilocal,"Marriage, Kinship","Marriage, Kinship",
+EA010,9,9,Uxorilocal,Uxorilocal,"Marriage, Kinship","Marriage, Kinship",
+EA010,10,10,Virilocal,Virilocal,"Marriage, Kinship","Marriage, Kinship",
+EA010,11,11,Ambi-uxo,Ambi-uxo,"Marriage, Kinship","Marriage, Kinship",
+EA010,12,12,Ambi-viri,Ambi-viri,"Marriage, Kinship","Marriage, Kinship",
+EA201,NA,NA,NA,NA,"Marriage, Kinship","Marriage, Kinship","Presence/absence variable (i.e. only two categories), hence excluded from analyses. "
+EA011,NA,NA,Missing data,Missing data,"Marriage, Kinship","Marriage, Kinship",Do societies share the prevailing pattern of transfer at marriage?
+EA011,1,1,Wife to husband,Wife to husband,"Marriage, Kinship","Marriage, Kinship",
+EA011,2,2,Ambi/neo-local,Ambi/neo-local,"Marriage, Kinship","Marriage, Kinship",
+EA011,3,3,Husband to wife,Husband to wife,"Marriage, Kinship","Marriage, Kinship",
+EA011,9,9,Separate,Separate,"Marriage, Kinship","Marriage, Kinship",
+EA012,NA,NA,Missing data,Missing data,"Marriage, Kinship","Marriage, Kinship",Do societies share the pattern of marital residence with kin?
+EA012,1,1,Avunculocal,Avunculocal,"Marriage, Kinship","Marriage, Kinship",
+EA012,2,2,Ambilocal,Ambilocal,"Marriage, Kinship","Marriage, Kinship",
+EA012,3,3,Avuncu-uxorilocal,Avuncu-uxorilocal,"Marriage, Kinship","Marriage, Kinship",
+EA012,4,4,Avuncu-virilocal,Avuncu-virilocal,"Marriage, Kinship","Marriage, Kinship",
+EA012,5,5,Matrilocal,Matrilocal,"Marriage, Kinship","Marriage, Kinship",
+EA012,6,6,Neolocal,Neolocal,"Marriage, Kinship","Marriage, Kinship",
+EA012,7,7,Separate,Separate,"Marriage, Kinship","Marriage, Kinship",
+EA012,8,8,Patrilocal,Patrilocal,"Marriage, Kinship","Marriage, Kinship",
+EA012,9,9,Uxorilocal,Uxorilocal,"Marriage, Kinship","Marriage, Kinship",
+EA012,10,10,Virilocal,Virilocal,"Marriage, Kinship","Marriage, Kinship",
+EA012,11,11,Ambi-uxo,Ambi-uxo,"Marriage, Kinship","Marriage, Kinship",
+EA012,12,12,Ambi-viri,Ambi-viri,"Marriage, Kinship","Marriage, Kinship",
+EA013,NA,NA,NA,NA,"Marriage, Kinship","Marriage, Kinship","For the goals of this analysis, redundant to EA011. Excluded from analyses."
+EA014,NA,NA,NA,NA,"Marriage, Kinship","Marriage, Kinship","For the goals of this analysis, redundant to EA012. Excluded from analyses."
+EA015,NA,NA,Missing data,Missing data,"Marriage, Kinship, Community organization","Marriage, Kinship",Do societies share the patterns of community marriage oranization?
+EA015,1,1,Demes,Demes,"Marriage, Kinship, Community organization","Marriage, Kinship",
+EA015,2,2,"Segmented, no exogamy","Segmented, no exogamy","Marriage, Kinship, Community organization","Marriage, Kinship",
+EA015,3,3,Agamous,Agamous,"Marriage, Kinship, Community organization","Marriage, Kinship",
+EA015,4,4,Exogamous,Exogamous,"Marriage, Kinship, Community organization","Marriage, Kinship",
+EA015,5,5,"Segmented, exogamy","Segmented, exogamy","Marriage, Kinship, Community organization","Marriage, Kinship",
+EA015,6,6,Clans,Clans,"Marriage, Kinship, Community organization","Marriage, Kinship",
+EA016 ,NA,NA,NA,NA,"Marriage, Kinship, Community organization","Marriage, Kinship","Variable with only 3 categories, out of which one represence the absence of target cultural trait (clan-community organization). Excluded from analyses."
+EA017,NA,NA,Missing data,Missing data,Kinship,"Marriage, Kinship",Do societies share the pattern for the largest patrilinear kin group?
+EA017,1,NA,None,None,Kinship,"Marriage, Kinship","Absence of patrilinear groups. Excluded from analyses, (new code = NA)."
+EA017,2,2,Exogamy only,Exogamy only,Kinship,"Marriage, Kinship",
+EA017,3,3,Lineages,Lineages,Kinship,"Marriage, Kinship",
+EA017,4,4,Sibs,Sibs,Kinship,"Marriage, Kinship",
+EA017,5,5,Phratries,Phratries,Kinship,"Marriage, Kinship",
+EA017,6,6,Moieties,Moieties,Kinship,"Marriage, Kinship",
+EA018,NA,NA,Missing data,Missing data,Kinship,"Marriage, Kinship",Do societies share the pattern for the largest patrilinear exogamous group?
+EA018,1,NA,No patrilineal exogamy,No patrilineal exogamy,Kinship,"Marriage, Kinship",Absence of exogamous patrilinear groups. Excluded from analyses (new code = NA). 
+EA018,2,2,Extended taboo,Extended taboo,Kinship,"Marriage, Kinship",
+EA018,3,3,Lineages,Lineages,Kinship,"Marriage, Kinship",
+EA018,4,4,Sibs,Sibs,Kinship,"Marriage, Kinship",
+EA018,5,5,Phratries,Phratries,Kinship,"Marriage, Kinship",
+EA018,6,6,Moieties,Moieties,Kinship,"Marriage, Kinship",
+EA019,NA,NA,NA,Missing data,Kinship,"Marriage, Kinship",Do societies share the pattern for the largest matrilinear kin group?
+EA019,1,NA,NA,None,Kinship,"Marriage, Kinship",Absence of matrilinear groups. Excluded from analyses (new code = NA).
+EA019,2,2,2,Exogamy only,Kinship,"Marriage, Kinship",
+EA019,3,3,3,Lineages,Kinship,"Marriage, Kinship",
+EA019,4,4,4,Sibs,Kinship,"Marriage, Kinship",
+EA019,5,5,5,Phratries,Kinship,"Marriage, Kinship",
+EA019,6,6,6,Moieties,Kinship,"Marriage, Kinship",
+EA020,NA,NA,NA,Missing data,Kinship,"Marriage, Kinship",Do societies share the pattern for the largest matrilinear exogamous group?
+EA020,1,NA,NA,No matrilineal exogamy,Kinship,"Marriage, Kinship",Absence of exogamous matrilinear groups. Excluded from analyses (new code = NA).
+EA020,2,2,2,Extended taboo,Kinship,"Marriage, Kinship",
+EA020,3,3,3,Lineages,Kinship,"Marriage, Kinship",
+EA020,4,4,4,Sibs,Kinship,"Marriage, Kinship",
+EA020,5,5,5,Phratries,Kinship,"Marriage, Kinship",
+EA020,6,6,6,Moieties,Kinship,"Marriage, Kinship",
+EA021,NA,NA,NA,Missing data,Kinship,"Marriage, Kinship",Do societies share the pattern for cognatic kin groups?
+EA021,1,1,NA,Bilateral inferred,Kinship,"Marriage, Kinship",Category inferred from the absence of reported other categories. Excluded from analyses (new code = NA).
+EA021,2,2,2,Bilateral kindreds,Kinship,"Marriage, Kinship",
+EA021,3,3,NA,Ambilineal,Kinship,"Marriage, Kinship",Category inferred from the absence of reported other categories. Excluded from analyses (new code = NA).
+EA021,4,4,4,Ramages,Kinship,"Marriage, Kinship",
+EA021,5,5,5,Exogamous ramages,Kinship,"Marriage, Kinship",
+EA021,6,6,6,Quasi-lineages,Kinship,"Marriage, Kinship",
+EA021,9,9,NA,No cognatic kin,Kinship,"Marriage, Kinship",Absence of ecognatic kin groups. Excluded from analyses.
+EA022,NA,NA,NA,NA,Kinship,"Marriage, Kinship","For the goals of this analysis, redundant to EA021. Excluded from analyses."
+EA023,NA,NA,Missing data,Missing data,"Marriage, Kinship","Marriage, Kinship",Do societies share the rules or practices governing the marriageability or nonmarriageability of a man's first cousins?
+EA023,1,1,Cross-cousin,Cross-cousin,"Marriage, Kinship","Marriage, Kinship",
+EA023,2,2,Paternal only,Paternal only,"Marriage, Kinship","Marriage, Kinship",
+EA023,3,3,Maternal only,Maternal only,"Marriage, Kinship","Marriage, Kinship",
+EA023,4,4,FaBrDa/MoBrDa only,FaBrDa/MoBrDa only,"Marriage, Kinship","Marriage, Kinship",
+EA023,5,5,FaSiDa/MoSiDa only,FaSiDa/MoSiDa only,"Marriage, Kinship","Marriage, Kinship",
+EA023,6,6,Matrilateral cross only,Matrilateral cross only,"Marriage, Kinship","Marriage, Kinship",
+EA023,7,7,No first/second cousins,No first/second cousins,"Marriage, Kinship","Marriage, Kinship",All codes indicating a ban on marrying first cousins have been lumped into one category.
+EA023,8,7,No first cousins,No first cousins,"Marriage, Kinship","Marriage, Kinship",All codes indicating a ban on marrying first cousins have been lumped into one category.
+EA023,9,9,Patrilateral cross only,Patrilateral cross only,"Marriage, Kinship","Marriage, Kinship",
+EA023,10,10,Any first cousins,Any first cousins,"Marriage, Kinship","Marriage, Kinship",
+EA023,11,7,Some second only,Some second only,"Marriage, Kinship","Marriage, Kinship",All codes indicating a ban on marrying first cousins have been lumped into one category.
+EA023,12,7,Only second cousins,Only second cousins,"Marriage, Kinship","Marriage, Kinship",All codes indicating a ban on marrying first cousins have been lumped into one category.
+EA023,13,13,Trilateral,Trilateral,"Marriage, Kinship","Marriage, Kinship",
+EA024,NA,NA,Missing data,Missing data,"Marriage, Kinship","Marriage, Kinship","Do societies share the rules or practices governing the marriageability or nonmarriageability of a man's first cousins? Similar to EA023, but broader categories."
+EA024,1,1,Quadrilateral,Quadrilateral,"Marriage, Kinship","Marriage, Kinship",
+EA024,2,2,Trilateral,Trilateral,"Marriage, Kinship","Marriage, Kinship",
+EA024,3,3,Duolateral,Duolateral,"Marriage, Kinship","Marriage, Kinship",
+EA024,4,4,Unilateral,Unilateral,"Marriage, Kinship","Marriage, Kinship",
+EA024,5,5,Only second cousins,Only second cousins,"Marriage, Kinship","Marriage, Kinship",All codes indicating a ban on marrying first cousins have been lumped into one category.
+EA024,6,5,Some second only,Some second only,"Marriage, Kinship","Marriage, Kinship",All codes indicating a ban on marrying first cousins have been lumped into one category.
+EA024,7,5,No first cousins,No first cousins,"Marriage, Kinship","Marriage, Kinship",All codes indicating a ban on marrying first cousins have been lumped into one category.
+EA024,8,5,No first/second cousins,No first/second cousins,"Marriage, Kinship","Marriage, Kinship",All codes indicating a ban on marrying first cousins have been lumped into one category.
+EA025,NA,NA,Missing data,Missing data,"Marriage, Kinship","Marriage, Kinship",Do societies share the preference regarding the practices governing the marriageability or nonmarriageability of a man's first cousins? 
+EA025,1,1,Cross-cousin: either,Cross-cousin: either,"Marriage, Kinship","Marriage, Kinship",
+EA025,2,2,Cross-cousin: matri,Cross-cousin: matri,"Marriage, Kinship","Marriage, Kinship",
+EA025,3,3,Cross-cousin: patri,Cross-cousin: patri,"Marriage, Kinship","Marriage, Kinship",
+EA025,4,4,Maternal: MoBrDa,Maternal: MoBrDa,"Marriage, Kinship","Marriage, Kinship",
+EA025,5,5,Uni: MoBrDa,Uni: MoBrDa,"Marriage, Kinship","Marriage, Kinship",
+EA025,6,6,Uni: FaSiDa,Uni: FaSiDa,"Marriage, Kinship","Marriage, Kinship",
+EA025,7,7,All: FaBrDa,All: FaBrDa,"Marriage, Kinship","Marriage, Kinship",
+EA025,8,8,All: cross,All: cross,"Marriage, Kinship","Marriage, Kinship",
+EA025,9,9,All: matri,All: matri,"Marriage, Kinship","Marriage, Kinship",
+EA025,10,NA,Some second only,Some second only,"Marriage, Kinship","Marriage, Kinship","All codes indicating a ban on marrying first cousins have been lumped into one category. Absence of first cousins marriage, hence excluded variable from analyses."
+EA025,11,NA,Second cousins preferred,Second cousins preferred,"Marriage, Kinship","Marriage, Kinship","All codes indicating a ban on marrying first cousins have been lumped into one category. Absence of first cousins marriage, hence excluded variable from analyses."
+EA025,12,12,Tri: bilateral,Tri: bilateral,"Marriage, Kinship","Marriage, Kinship",
+EA025,13,13,Tri: matrilateral,Tri: matrilateral,"Marriage, Kinship","Marriage, Kinship",
+EA025,14,14,Tri: patrilateral,Tri: patrilateral,"Marriage, Kinship","Marriage, Kinship",
+EA025,15,15,None preferred,None preferred,"Marriage, Kinship","Marriage, Kinship",
+EA026,NA,NA,Missing data,Missing data,"Marriage, Kinship","Marriage, Kinship",Do societies share the patterns for preferences for choosing a spouse among various cousin types?
+EA026,1,1,Cross-cousin,Cross-cousin,"Marriage, Kinship","Marriage, Kinship",
+EA026,2,2,MoBrDa,MoBrDa,"Marriage, Kinship","Marriage, Kinship",
+EA026,3,3,FaSiDa,FaSiDa,"Marriage, Kinship","Marriage, Kinship",
+EA026,4,4,FaBrDa,FaBrDa,"Marriage, Kinship","Marriage, Kinship",
+EA026,5,5,Second cousin,Second cousin,"Marriage, Kinship","Marriage, Kinship",
+EA026,9,9,None preferred,None preferred,"Marriage, Kinship","Marriage, Kinship",
+EA027,NA,NA,Missing data,Missing data,Kinship,"Marriage, Kinship",Do societies share the kin terms they use to designate cousins?
+EA027,1,1,Crow,Crow,Kinship,"Marriage, Kinship",
+EA027,2,2,Descriptive,Descriptive,Kinship,"Marriage, Kinship",
+EA027,3,3,Eskimo,Eskimo,Kinship,"Marriage, Kinship",
+EA027,4,4,Hawaiian,Hawaiian,Kinship,"Marriage, Kinship",
+EA027,5,5,Iroquois,Iroquois,Kinship,"Marriage, Kinship",
+EA027,6,6,Omaha,Omaha,Kinship,"Marriage, Kinship",
+EA027,7,7,Sudanese,Sudanese,Kinship,"Marriage, Kinship",
+EA027,8,NA,Mixed,Mixed,Kinship,"Marriage, Kinship",No one term for designating cousins. Excluded from analyses.
+EA028,NA,NA,Missing data,Missing data,"Subsistence, Economy",Subsistence,Do societies that use agriculture share the intensity of cultivation?
+EA028,1,NA,No agriculture,No agriculture,"Subsistence, Economy",Subsistence,Absence of agriculture. Excluded from analyses.
+EA028,2,2,Casual,Casual,"Subsistence, Economy",Subsistence,
+EA028,3,3,Extensive/shifting,Extensive/shifting,"Subsistence, Economy",Subsistence,
+EA028,4,4,Horticulture,Horticulture,"Subsistence, Economy",Subsistence,
+EA028,5,5,Intensive,Intensive,"Subsistence, Economy",Subsistence,
+EA028,6,5,Intensive irrigated,Intensive irrigated,"Subsistence, Economy",Subsistence,All codes indicating intensive aggriculture were lumped.
+EA029,NA,NA,Missing data,Missing data,"Subsistence, Ecology",Subsistence,Do societies that use agriculture share the dominant crop type?
+EA029,1,NA,No agriculture,No agriculture,"Subsistence, Ecology",Subsistence,Absence of agriculture. Excluded from analyses.
+EA029,2,4,Non-food,Non-food,"Subsistence, Ecology",Subsistence,
+EA029,3,5,Vegetables,Vegetables,"Subsistence, Ecology",Subsistence,
+EA029,4,1,Tree-fruits,Tree-fruits,"Subsistence, Ecology",Subsistence,
+EA029,5,2,Roots/tubers,Roots/tubers,"Subsistence, Ecology",Subsistence,
+EA029,6,3,Cereals,Cereals,"Subsistence, Ecology",Subsistence,
+EA030,NA,NA,Missing data,Missing data,"Community organization, Housing, Settlement",Community organization,Do societies share settlement patterns?
+EA030,1,1,Nomadic,Nomadic,"Community organization, Housing, Settlement",Community organization,
+EA030,2,2,Seminomadic,Seminomadic,"Community organization, Housing, Settlement",Community organization,
+EA030,3,3,Semisedentary,Semisedentary,"Community organization, Housing, Settlement",Community organization,
+EA030,4,4,Impermanent,Impermanent,"Community organization, Housing, Settlement",Community organization,
+EA030,5,5,Dispersed homesteads,Dispersed homesteads,"Community organization, Housing, Settlement",Community organization,
+EA030,6,6,Hamlets,Hamlets,"Community organization, Housing, Settlement",Community organization,
+EA030,7,7,Villages/towns,Villages/towns,"Community organization, Housing, Settlement",Community organization,
+EA030,8,8,Complex permanent,Complex permanent,"Community organization, Housing, Settlement",Community organization,
+EA031,NA,NA,NA,NA,"Community organization, Population, Settlement",Community organization,"Ordinal data, not well suited for assigning sharing/non-sharing of culture status for pairs of societies. Excluded from analyses."
+EA032,NA,NA,Missing data,Missing data,Community organization,Community organization,Do societies share the patterns for the jurisdictional hierarchy of local community?
+EA032,2,2,Independent families,Independent families,Community organization,Community organization,
+EA032,3,3,Extended families,Extended families,Community organization,Community organization,
+EA032,4,4,Clan-barrios,Clan-barrios,Community organization,Community organization,
+EA033,NA,NA,Missing data,Missing data,"Community organization, Politics",Community organization,Do societies share the patterns for the jurisdictional hierarchy beyond local community?
+EA033,1,NA,Acephalous,Acephalous,"Community organization, Politics",Community organization,No political authority beyond the community. Excluded from analyses.
+EA033,2,2,One level,One level,"Community organization, Politics",Community organization,
+EA033,3,3,Two levels,Two levels,"Community organization, Politics",Community organization,
+EA033,4,4,Three levels,Three levels,"Community organization, Politics",Community organization,
+EA033,5,5,Four levels,Four levels,"Community organization, Politics",Community organization,
+EA034,NA,NA,Missing data,Missing data,Ritual,Ritual,Do societies share the patterns for belief supernatural entities/ deities?
+EA034,1,1,Absent,No high gods,Ritual,Ritual,"All codes indicating the presence of believes in amoral, high gods were lumped. "
+EA034,2,2,Otiose,"High gods, not moral",Ritual,Ritual,"All codes indicating the presence of believes in amoral, high gods were lumped. "
+EA034,3,2,"Active, but not supporting morality","High gods, not moral",Ritual,Ritual,
+EA034,4,3,"Active, supporting morality","High gods, moral",Ritual,Ritual,
+EA035,NA,NA,Missing data,Missing data,Ritual,Ritual,"Do societies share the types of games played (based on combination of attributes such as physical skills, chance and strategy)?"
+EA035,1,NA,No games,No games,Ritual,Ritual,Absence of games. Excluded from analyses.
+EA035,2,2,Physical skill only,Physical skill only,Ritual,Ritual,
+EA035,3,3,Chance only,Chance only,Ritual,Ritual,
+EA035,4,4,Physical skill and chance,Physical skill and chance,Ritual,Ritual,
+EA035,5,5,Strategy only,Strategy only,Ritual,Ritual,
+EA035,6,6,Strategy and physical skill,Strategy and physical skill,Ritual,Ritual,
+EA035,7,7,Strategy and chance,Strategy and chance,Ritual,Ritual,
+EA035,8,8,All types,All types,Ritual,Ritual,
+EA036,NA,NA,Missing data,Missing data,"Ritual, Gender, Marriage",Ritual,Do societies share the normal duration of post-partum sex taboos?
+EA036,1,1,No taboo,No taboo,"Ritual, Gender, Marriage",Ritual,"Category left in, code indicating a duration of 0 units time post-partum."
+EA036,2,2,Up to one month,Up to one month,"Ritual, Gender, Marriage",Ritual,
+EA036,3,3,One to six months,One to six months,"Ritual, Gender, Marriage",Ritual,
+EA036,4,4,Six months to a year,Six months to a year,"Ritual, Gender, Marriage",Ritual,
+EA036,5,5,A year to two years,A year to two years,"Ritual, Gender, Marriage",Ritual,
+EA036,6,6,More than two years,More than two years,"Ritual, Gender, Marriage",Ritual,
+EA037,NA,NA,Missing data,Missing data,"Ritual, Gender",Ritual,Do societies share the age at which male genital mutilation is practiced?
+EA037,1,NA,Absent,Absent,"Ritual, Gender",Ritual,Absence of genital mutilation. Excluded from analyses. 
+EA037,2,2,Shortly after birth,Shortly after birth,"Ritual, Gender",Ritual,
+EA037,3,3,Infancy ,Infancy ,"Ritual, Gender",Ritual,
+EA037,4,4,Early childhood,Early childhood,"Ritual, Gender",Ritual,
+EA037,5,5,Late childhood,Late childhood,"Ritual, Gender",Ritual,
+EA037,6,6,Adolescence,Adolescence,"Ritual, Gender",Ritual,
+EA037,7,7,Early adulthood,Early adulthood,"Ritual, Gender",Ritual,
+EA037,8,8,Maturity,Maturity,"Ritual, Gender",Ritual,
+EA037,9,9,Old age,Old age,"Ritual, Gender",Ritual,
+EA037,10,NA,"Customary, age unclear",NA,"Ritual, Gender",Ritual,Unclear age at which male genital mutilation is practiced. Excluded from analyses.
+EA038,NA,NA,Missing data,Missing data,"Ritual, Gender, Marriage",Ritual,Do societies share the degree and mode of segregating boys at puberty?
+EA038,1,NA,No segregation,No segregation,"Ritual, Gender, Marriage",Ritual,Absence of segregation of boys at puberty. Excluded from analyses.
+EA038,2,2,Partial,Partial,"Ritual, Gender, Marriage",Ritual,
+EA038,3,3,Complete: outside nuclear family,Complete: outside nuclear family,"Ritual, Gender, Marriage",Ritual,
+EA038,4,4,Complete: outside kin,Complete: outside kin,"Ritual, Gender, Marriage",Ritual,
+EA038,5,5,Complete: own peers,Complete: own peers,"Ritual, Gender, Marriage",Ritual,
+EA039,NA,NA,NA,NA,"Subsistence, Economy",Subsistence,"Presence/absence variable (i.e. only two categories), hence excluded from analyses. "
+EA040,NA,NA,Missing data,Missing data,"Subsistence, Ecology",Subsistence,Do societies that practice animal husbandry share the dominant animal they use?
+EA040,1,NA,Absence or near absence,NA,"Subsistence, Ecology",Subsistence,Absence of animal husbandry. Excluded from analyses.
+EA040,2,1,Pigs,Pigs,"Subsistence, Ecology",Subsistence,
+EA040,3,2,Sheep/goats,Sheep/goats,"Subsistence, Ecology",Subsistence,
+EA040,4,3,Equine,Equine,"Subsistence, Ecology",Subsistence,
+EA040,5,6,Deer,Deer,"Subsistence, Ecology",Subsistence,
+EA040,6,4,Camelids,Camelids,"Subsistence, Ecology",Subsistence,
+EA040,7,5,Bovine,Bovine,"Subsistence, Ecology",Subsistence,
+EA041,NA,NA,NA,NA,"Subsistence, Economy",Subsistence,Absence of animal husbandry. Excluded from analyses.
+EA042,NA,NA,Missing for at least 1 activity,Missing for at least 1 activity,"Subsistence, Economy",Subsistence,Do societies share the dominant subsistance mode?
+EA042,1,1,Gathering,Gathering,"Subsistence, Economy",Subsistence,
+EA042,2,2,Fishing,Fishing,"Subsistence, Economy",Subsistence,
+EA042,3,3,Hunting,Hunting,"Subsistence, Economy",Subsistence,
+EA042,4,4,Pastoralism,Pastoralism,"Subsistence, Economy",Subsistence,
+EA042,5,5,Casual agriculture,Agriculture,"Subsistence, Economy",Subsistence,All codes indicating the dominance of agriculture were lumped. 
+EA042,6,5,Extensive agriculture,Agriculture,"Subsistence, Economy",Subsistence,All codes indicating the dominance of agriculture were lumped. 
+EA042,7,5,Intensive agriculture,Agriculture,"Subsistence, Economy",Subsistence,All codes indicating the dominance of agriculture were lumped. 
+EA042,8,NA,Two or more sources,Two or more sources,"Subsistence, Economy",Subsistence,All codes indicating the dominance of agriculture were lumped. 
+EA042,9,5,"Agriculture, type unknown",Agriculture,"Subsistence, Economy",Subsistence,All codes indicating the dominance of agriculture were lumped. 
+EA043,NA,NA,Missing data,Missing data,Kinship,"Marriage, Kinship",Do societies share the major mode of descent?
+EA043,1,1,Patrilineal,Patrilineal,Kinship,"Marriage, Kinship",
+EA043,2,2,Duolateral,Duolateral,Kinship,"Marriage, Kinship",
+EA043,3,3,Matrilineal,Matrilineal,Kinship,"Marriage, Kinship",
+EA043,4,4,Quasi-lineages,Quasi-lineages,Kinship,"Marriage, Kinship",
+EA043,5,5,Ambilineal,Ambilineal,Kinship,"Marriage, Kinship",
+EA043,6,6,Bilateral,Bilateral,Kinship,"Marriage, Kinship",
+EA043,7,7,Mixed,Mixed,Kinship,"Marriage, Kinship",No one major mode of descent. Excluded from analyses.
+EA044,NA,NA,Missing data,Missing data,"Labour, Gender, Economy","Labour, Gender",Do societies share the patterns of un-industrialized labour division between sexes?
+EA044,1,1,Males alone,Males alone,"Labour, Gender, Economy","Labour, Gender",
+EA044,2,2,"Both, males more","Both, males more","Labour, Gender, Economy","Labour, Gender",
+EA044,3,4,Differentiated but equal,Differentiated but equal,"Labour, Gender, Economy","Labour, Gender",All codes indicating a pattern of both sexes being equally involved in the amount of labour invested in metal working were lumped.
+EA044,4,4,Equal participation,Equal participation,"Labour, Gender, Economy","Labour, Gender",
+EA044,5,5,"Both, females more","Both, females more","Labour, Gender, Economy","Labour, Gender",
+EA044,6,6,Females alone,Females alone,"Labour, Gender, Economy","Labour, Gender",
+EA044,7,NA,Sex irrelevant,Sex irrelevant,"Labour, Gender, Economy","Labour, Gender",Industrial labour dominates. Excluded from analyses.
+EA044,8,NA,"Activity present, sex diff. unspecified","Activity present, sex diff. unspecified","Labour, Gender, Economy","Labour, Gender",No specified sex differences. Excluded from analyses.
+EA044,9,NA,Activity is absent,Activity is absent,"Labour, Gender, Economy","Labour, Gender",Absence of metal working. Excluded from analyses.
+EA045,NA,NA,Missing data,Missing data,"Labour, Gender, Economy","Labour, Gender",Do societies share the patterns of un-industrialized labour division between sexes?
+EA045,1,1,Males alone,Males alone,"Labour, Gender, Economy","Labour, Gender",
+EA045,2,2,"Both, males more","Both, males more","Labour, Gender, Economy","Labour, Gender",
+EA045,3,4,Differentiated but equal,Differentiated but equal,"Labour, Gender, Economy","Labour, Gender",All codes indicating a pattern of both sexes being equally involved in the amount of labour invested in weaving working were lumped.
+EA045,4,4,Equal participation,Equal participation,"Labour, Gender, Economy","Labour, Gender",
+EA045,5,5,"Both, females more","Both, females more","Labour, Gender, Economy","Labour, Gender",
+EA045,6,6,Females alone,Females alone,"Labour, Gender, Economy","Labour, Gender",
+EA045,7,NA,Sex irrelevant,Sex irrelevant,"Labour, Gender, Economy","Labour, Gender",Industrial labour dominates. Excluded from analyses.
+EA045,8,NA,"Activity present, sex diff. unspecified","Activity present, sex diff. unspecified","Labour, Gender, Economy","Labour, Gender",No specified sex differences. Excluded from analyses.
+EA045,9,NA,Activity is absent,Activity is absent,"Labour, Gender, Economy","Labour, Gender",Absence of weaving working. Excluded from analyses.
+EA046,NA,NA,Missing data,Missing data,"Labour, Gender, Economy","Labour, Gender",Do societies share the patterns of un-industrialized labour division between sexes?
+EA046,1,1,Males alone,Males alone,"Labour, Gender, Economy","Labour, Gender",
+EA046,2,2,"Both, males more","Both, males more","Labour, Gender, Economy","Labour, Gender",
+EA046,3,4,Differentiated but equal,Differentiated but equal,"Labour, Gender, Economy","Labour, Gender",All codes indicating a pattern of both sexes being equally involved in the amount of labour invested in leather working were lumped.
+EA046,4,4,Equal participation,Equal participation,"Labour, Gender, Economy","Labour, Gender",
+EA046,5,5,"Both, females more","Both, females more","Labour, Gender, Economy","Labour, Gender",
+EA046,6,6,Females alone,Females alone,"Labour, Gender, Economy","Labour, Gender",
+EA046,7,NA,Sex irrelevant,Sex irrelevant,"Labour, Gender, Economy","Labour, Gender",Industrial labour dominates. Excluded from analyses.
+EA046,8,NA,"Activity present, sex diff. unspecified","Activity present, sex diff. unspecified","Labour, Gender, Economy","Labour, Gender",No specified sex differences. Excluded from analyses.
+EA046,9,NA,Activity is absent,Activity is absent,"Labour, Gender, Economy","Labour, Gender",Absence of leather working. Excluded from analyses.
+EA047,NA,NA,Missing data,Missing data,"Labour, Gender, Economy","Labour, Gender",Do societies share the patterns of un-industrialized labour division between sexes?
+EA047,1,1,Males alone,Males alone,"Labour, Gender, Economy","Labour, Gender",
+EA047,2,2,"Both, males more","Both, males more","Labour, Gender, Economy","Labour, Gender",
+EA047,3,4,Differentiated but equal,Differentiated but equal,"Labour, Gender, Economy","Labour, Gender",All codes indicating a pattern of both sexes being equally involved in the amount of labour invested in  pottery making were lumped.
+EA047,4,4,Equal participation,Equal participation,"Labour, Gender, Economy","Labour, Gender",
+EA047,5,5,"Both, females more","Both, females more","Labour, Gender, Economy","Labour, Gender",
+EA047,6,6,Females alone,Females alone,"Labour, Gender, Economy","Labour, Gender",
+EA047,7,NA,Sex irrelevant,Sex irrelevant,"Labour, Gender, Economy","Labour, Gender",Industrial labour dominates. Excluded from analyses.
+EA047,8,NA,"Activity present, sex diff. unspecified","Activity present, sex diff. unspecified","Labour, Gender, Economy","Labour, Gender",No specified sex differences. Excluded from analyses.
+EA047,9,NA,Activity is absent,Activity is absent,"Labour, Gender, Economy","Labour, Gender",Absence of  pottery making. Excluded from analyses.
+EA048,NA,NA,Missing data,Missing data,"Labour, Gender, Economy","Labour, Gender",Do societies share the patterns of un-industrialized labour division between sexes?
+EA048,1,1,Males alone,Males alone,"Labour, Gender, Economy","Labour, Gender",
+EA048,2,2,"Both, males more","Both, males more","Labour, Gender, Economy","Labour, Gender",
+EA048,3,4,Differentiated but equal,Differentiated but equal,"Labour, Gender, Economy","Labour, Gender",All codes indicating a pattern of both sexes being equally involved in the amount of labour invested in boat building were lumped.
+EA048,4,4,Equal participation,Equal participation,"Labour, Gender, Economy","Labour, Gender",
+EA048,5,5,"Both, females more","Both, females more","Labour, Gender, Economy","Labour, Gender",
+EA048,6,6,Females alone,Females alone,"Labour, Gender, Economy","Labour, Gender",
+EA048,7,NA,Sex irrelevant,Sex irrelevant,"Labour, Gender, Economy","Labour, Gender",Industrial labour dominates. Excluded from analyses.
+EA048,8,NA,"Activity present, sex diff. unspecified","Activity present, sex diff. unspecified","Labour, Gender, Economy","Labour, Gender",No specified sex differences. Excluded from analyses.
+EA048,9,NA,Activity is absent,Activity is absent,"Labour, Gender, Economy","Labour, Gender",Absence of boat building. Excluded from analyses.
+EA049,NA,NA,Missing data,Missing data,"Labour, Gender, Economy","Labour, Gender",Do societies share the patterns of un-industrialized labour division between sexes?
+EA049,1,1,Males alone,Males alone,"Labour, Gender, Economy","Labour, Gender",
+EA049,2,2,"Both, males more","Both, males more","Labour, Gender, Economy","Labour, Gender",
+EA049,3,4,Differentiated but equal,Differentiated but equal,"Labour, Gender, Economy","Labour, Gender",All codes indicating a pattern of both sexes being equally involved in the amount of labour invested in house construction were lumped.
+EA049,4,4,Equal participation,Equal participation,"Labour, Gender, Economy","Labour, Gender",
+EA049,5,5,"Both, females more","Both, females more","Labour, Gender, Economy","Labour, Gender",
+EA049,6,6,Females alone,Females alone,"Labour, Gender, Economy","Labour, Gender",
+EA049,7,NA,Sex irrelevant,Sex irrelevant,"Labour, Gender, Economy","Labour, Gender",Industrial labour dominates. Excluded from analyses.
+EA049,8,NA,"Activity present, sex diff. unspecified","Activity present, sex diff. unspecified","Labour, Gender, Economy","Labour, Gender",No specified sex differences. Excluded from analyses.
+EA049,9,NA,Activity is absent,Activity is absent,"Labour, Gender, Economy","Labour, Gender",Absence of house construction Excluded from analyses.
+EA050,NA,NA,Missing data,Missing data,"Labour, Gender, Economy","Labour, Gender",Do societies share the patterns of un-industrialized labour division between sexes?
+EA050,1,1,Males alone,Males alone,"Labour, Gender, Economy","Labour, Gender",
+EA050,2,2,"Both, males more","Both, males more","Labour, Gender, Economy","Labour, Gender",
+EA050,3,4,Differentiated but equal,Differentiated but equal,"Labour, Gender, Economy","Labour, Gender",All codes indicating a pattern of both sexes being equally involved in the amount of labour invested in gathering were lumped.
+EA050,4,4,Equal participation,Equal participation,"Labour, Gender, Economy","Labour, Gender",
+EA050,5,5,"Both, females more","Both, females more","Labour, Gender, Economy","Labour, Gender",
+EA050,6,6,Females alone,Females alone,"Labour, Gender, Economy","Labour, Gender",
+EA050,7,NA,Sex irrelevant,Sex irrelevant,"Labour, Gender, Economy","Labour, Gender",Industrial labour dominates. Excluded from analyses.
+EA050,8,NA,"Activity present, sex diff. unspecified","Activity present, sex diff. unspecified","Labour, Gender, Economy","Labour, Gender",No specified sex differences. Excluded from analyses.
+EA050,9,NA,Activity is absent,Activity is absent,"Labour, Gender, Economy","Labour, Gender",Absence of gathering. Excluded from analyses.
+EA051,NA,NA,Missing data,Missing data,"Labour, Gender, Economy","Labour, Gender",Do societies share the patterns of un-industrialized labour division between sexes?
+EA051,1,1,Males alone,Males alone,"Labour, Gender, Economy","Labour, Gender",
+EA051,2,2,"Both, males more","Both, males more","Labour, Gender, Economy","Labour, Gender",
+EA051,3,4,Differentiated but equal,Differentiated but equal,"Labour, Gender, Economy","Labour, Gender",All codes indicating a pattern of both sexes being equally involved in the amount of labour invested in hunting were lumped.
+EA051,4,4,Equal participation,Equal participation,"Labour, Gender, Economy","Labour, Gender",
+EA051,5,5,"Both, females more","Both, females more","Labour, Gender, Economy","Labour, Gender",
+EA051,6,6,Females alone,Females alone,"Labour, Gender, Economy","Labour, Gender",
+EA051,7,NA,Sex irrelevant,Sex irrelevant,"Labour, Gender, Economy","Labour, Gender",Industrial labour dominates. Excluded from analyses.
+EA051,8,NA,"Activity present, sex diff. unspecified","Activity present, sex diff. unspecified","Labour, Gender, Economy","Labour, Gender",No specified sex differences. Excluded from analyses.
+EA051,9,NA,Activity is absent,Activity is absent,"Labour, Gender, Economy","Labour, Gender",Absence of lhunting. Excluded from analyses.
+EA052,NA,NA,Missing data,Missing data,"Labour, Gender, Economy","Labour, Gender",Do societies share the patterns of un-industrialized labour division between sexes?
+EA052,1,1,Males alone,Males alone,"Labour, Gender, Economy","Labour, Gender",
+EA052,2,2,"Both, males more","Both, males more","Labour, Gender, Economy","Labour, Gender",
+EA052,3,4,Differentiated but equal,Differentiated but equal,"Labour, Gender, Economy","Labour, Gender",All codes indicating a pattern of both sexes being equally involved in the amount of labour invested in fishing were lumped.
+EA052,4,4,Equal participation,Equal participation,"Labour, Gender, Economy","Labour, Gender",
+EA052,5,5,"Both, females more","Both, females more","Labour, Gender, Economy","Labour, Gender",
+EA052,6,6,Females alone,Females alone,"Labour, Gender, Economy","Labour, Gender",
+EA052,7,NA,Sex irrelevant,Sex irrelevant,"Labour, Gender, Economy","Labour, Gender",Industrial labour dominates. Excluded from analyses.
+EA052,8,NA,"Activity present, sex diff. unspecified","Activity present, sex diff. unspecified","Labour, Gender, Economy","Labour, Gender",No specified sex differences. Excluded from analyses.
+EA052,9,NA,Activity is absent,Activity is absent,"Labour, Gender, Economy","Labour, Gender",Absence of fishing. Excluded from analyses.
+EA053,NA,NA,Missing data,Missing data,"Labour, Gender, Economy","Labour, Gender",Do societies share the patterns of un-industrialized labour division between sexes?
+EA053,1,1,Males alone,Males alone,"Labour, Gender, Economy","Labour, Gender",
+EA053,2,2,"Both, males more","Both, males more","Labour, Gender, Economy","Labour, Gender",
+EA053,3,4,Differentiated but equal,Differentiated but equal,"Labour, Gender, Economy","Labour, Gender",All codes indicating a pattern of both sexes being equally involved in the amount of labour invested in animal husbandry were lumped.
+EA053,4,4,Equal participation,Equal participation,"Labour, Gender, Economy","Labour, Gender",
+EA053,5,5,"Both, females more","Both, females more","Labour, Gender, Economy","Labour, Gender",
+EA053,6,6,Females alone,Females alone,"Labour, Gender, Economy","Labour, Gender",
+EA053,7,NA,Sex irrelevant,Sex irrelevant,"Labour, Gender, Economy","Labour, Gender",Industrial labour dominates. Excluded from analyses.
+EA053,8,NA,"Activity present, sex diff. unspecified","Activity present, sex diff. unspecified","Labour, Gender, Economy","Labour, Gender",No specified sex differences. Excluded from analyses.
+EA053,9,NA,Activity is absent,Activity is absent,"Labour, Gender, Economy","Labour, Gender",Absence of animal husbandry. Excluded from analyses.
+EA054,NA,NA,Missing data,Missing data,"Labour, Gender, Economy","Labour, Gender",Do societies share the patterns of un-industrialized labour division between sexes?
+EA054,1,1,Males alone,Males alone,"Labour, Gender, Economy","Labour, Gender",
+EA054,2,2,"Both, males more","Both, males more","Labour, Gender, Economy","Labour, Gender",
+EA054,3,4,Differentiated but equal,Differentiated but equal,"Labour, Gender, Economy","Labour, Gender",All codes indicating a pattern of both sexes being equally involved in the amount of labour invested in agriculture were lumped.
+EA054,4,4,Equal participation,Equal participation,"Labour, Gender, Economy","Labour, Gender",
+EA054,5,5,"Both, females more","Both, females more","Labour, Gender, Economy","Labour, Gender",
+EA054,6,6,Females alone,Females alone,"Labour, Gender, Economy","Labour, Gender",
+EA054,7,NA,Sex irrelevant,Sex irrelevant,"Labour, Gender, Economy","Labour, Gender",Industrial labour dominates. Excluded from analyses.
+EA054,8,NA,"Activity present, sex diff. unspecified","Activity present, sex diff. unspecified","Labour, Gender, Economy","Labour, Gender",No specified sex differences. Excluded from analyses.
+EA054,9,NA,Activity is absent,Activity is absent,"Labour, Gender, Economy","Labour, Gender",Absence of agriculture. Excluded from analyses.
+EA055,NA,NA,Missing data,Missing data,"Labour, Economy","Labour, Gender","Do societies share the age categorization for practicing smelting, casting, and forging? "
+EA055,1,1,Junior age,Junior age,"Labour, Economy","Labour, Gender",
+EA055,2,2,Senior age,Senior age,"Labour, Economy","Labour, Gender",
+EA055,3,NA,Craft,Craft,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA055,4,NA,Industrial,Industrial,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA055,9,9,Most adults,Most adults,"Labour, Economy","Labour, Gender",
+EA055,10,NA,Activity is absent,Activity is absent,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA056,NA,NA,Missing data,Missing data,"Labour, Economy","Labour, Gender",Do societies share the age categorization for practicing weaving? 
+EA056,1,1,Junior age,Junior age,"Labour, Economy","Labour, Gender",
+EA056,2,2,Senior age,Senior age,"Labour, Economy","Labour, Gender",
+EA056,3,NA,Craft,Craft,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA056,4,NA,Industrial,Industrial,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA056,9,9,Most adults,Most adults,"Labour, Economy","Labour, Gender",
+EA056,10,NA,Activity is absent,Activity is absent,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA057,NA,NA,Missing data,Missing data,"Labour, Economy","Labour, Gender",Do societies share the age categorization for practicing leather working? 
+EA057,1,1,Junior age,Junior age,"Labour, Economy","Labour, Gender",
+EA057,2,2,Senior age,Senior age,"Labour, Economy","Labour, Gender",
+EA057,3,NA,Craft,Craft,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA057,4,NA,Industrial,Industrial,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA057,9,9,Most adults,Most adults,"Labour, Economy","Labour, Gender",
+EA057,10,NA,Activity is absent,Activity is absent,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA058,NA,NA,Missing data,Missing data,"Labour, Economy","Labour, Gender",Do societies share the age categorization for practicing pottery making? 
+EA058,1,1,Junior age,Junior age,"Labour, Economy","Labour, Gender",
+EA058,2,2,Senior age,Senior age,"Labour, Economy","Labour, Gender",
+EA058,3,NA,Craft,Craft,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA058,4,NA,Industrial,Industrial,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA058,9,9,Most adults,Most adults,"Labour, Economy","Labour, Gender",
+EA058,10,NA,Activity is absent,Activity is absent,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA059,NA,NA,Missing data,Missing data,"Labour, Economy","Labour, Gender",Do societies share the age categorization for practicing boat building? 
+EA059,1,1,Junior age,Junior age,"Labour, Economy","Labour, Gender",
+EA059,2,2,Senior age,Senior age,"Labour, Economy","Labour, Gender",
+EA059,3,NA,Craft,Craft,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA059,4,NA,Industrial,Industrial,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA059,9,9,Most adults,Most adults,"Labour, Economy","Labour, Gender",
+EA059,10,NA,Activity is absent,Activity is absent,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA060,NA,NA,Missing data,Missing data,"Labour, Economy","Labour, Gender",Do societies share the age categorization for practicing house construction? 
+EA060,1,1,Junior age,Junior age,"Labour, Economy","Labour, Gender",
+EA060,2,2,Senior age,Senior age,"Labour, Economy","Labour, Gender",
+EA060,3,NA,Craft,Craft,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA060,4,NA,Industrial,Industrial,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA060,9,9,Most adults,Most adults,"Labour, Economy","Labour, Gender",
+EA060,10,NA,Activity is absent,Activity is absent,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA061,NA,NA,Missing data,Missing data,"Labour, Economy","Labour, Gender",Do societies share the age categorization for practicing gathering? 
+EA061,1,1,Junior age,Junior age,"Labour, Economy","Labour, Gender",
+EA061,2,2,Senior age,Senior age,"Labour, Economy","Labour, Gender",
+EA061,3,NA,Craft,Craft,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA061,4,NA,Industrial,Industrial,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA061,9,9,Most adults,Most adults,"Labour, Economy","Labour, Gender",
+EA061,10,NA,Activity is absent,Activity is absent,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA062,NA,NA,Missing data,Missing data,"Labour, Economy","Labour, Gender",Do societies share the age categorization for practicing hunting? 
+EA062,1,1,Junior age,Junior age,"Labour, Economy","Labour, Gender",
+EA062,2,2,Senior age,Senior age,"Labour, Economy","Labour, Gender",
+EA062,3,NA,Craft,Craft,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA062,4,NA,Industrial,Industrial,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA062,9,9,Most adults,Most adults,"Labour, Economy","Labour, Gender",
+EA062,10,NA,Activity is absent,Activity is absent,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA063,NA,NA,Missing data,Missing data,"Labour, Economy","Labour, Gender",Do societies share the age categorization for practicing fishing? 
+EA063,1,1,Junior age,Junior age,"Labour, Economy","Labour, Gender",
+EA063,2,2,Senior age,Senior age,"Labour, Economy","Labour, Gender",
+EA063,3,NA,Craft,Craft,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA063,4,NA,Industrial,Industrial,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA063,9,9,Most adults,Most adults,"Labour, Economy","Labour, Gender",
+EA063,10,NA,Activity is absent,Activity is absent,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA064,NA,NA,Missing data,Missing data,"Labour, Economy","Labour, Gender",Do societies share the age categorization for practicing animal husbandry? 
+EA064,1,1,Junior age,Junior age,"Labour, Economy","Labour, Gender",
+EA064,2,2,Senior age,Senior age,"Labour, Economy","Labour, Gender",
+EA064,3,NA,Craft,Craft,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA064,4,NA,Industrial,Industrial,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA064,9,9,Most adults,Most adults,"Labour, Economy","Labour, Gender",
+EA064,10,NA,Activity is absent,Activity is absent,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA065,NA,NA,Missing data,Missing data,"Labour, Economy","Labour, Gender",Do societies share the age categorization for practicing agriculture? 
+EA065,1,1,Junior age,Junior age,"Labour, Economy","Labour, Gender",
+EA065,2,2,Senior age,Senior age,"Labour, Economy","Labour, Gender",
+EA065,3,NA,Craft,Craft,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA065,4,NA,Industrial,Industrial,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA065,9,9,Most adults,Most adults,"Labour, Economy","Labour, Gender",
+EA065,10,NA,Activity is absent,Activity is absent,"Labour, Economy","Labour, Gender",No distinction between age groups. Excluded from analyses.
+EA066,NA,NA,Missing data,Missing data,"Politics, Class, Economy",Community organization,Do societies share the class differentiation type?
+EA066,1,1,Absence of distinctions,Absence of distinctions,"Politics, Class, Economy",Community organization,"Category left in, code indicating dominance of freemen."
+EA066,2,2,Wealth distinctions,Wealth distinctions,"Politics, Class, Economy",Community organization,
+EA066,3,3,Elite stratification,Elite stratification,"Politics, Class, Economy",Community organization,
+EA066,4,4,Dual stratification,Dual stratification,"Politics, Class, Economy",Community organization,
+EA066,5,5,Complex stratification,Complex stratification,"Politics, Class, Economy",Community organization,
+EA067,NA,NA,Missing data,Missing data,"Politics, Class, Economy",Community organization,"For the goals of this analysis, redundant to EA066. Excluded from analyses."
+EA068,NA,NA,Missing data,Missing data,"Politics, Class, Economy",Community organization,Do societies share the caste differentiation type?
+EA068,1,NA,Absence of distinctions,Absence of distinctions,"Politics, Class, Economy",Community organization,Absence of distinctions. Excluded from analyses.
+EA068,2,2,Despised occupation groups,Despised occupation groups,"Politics, Class, Economy",Community organization,
+EA068,3,3,Ethnic stratification,Ethnic stratification,"Politics, Class, Economy",Community organization,
+EA068,4,4,Complex caste stratification,Complex caste stratification,"Politics, Class, Economy",Community organization,
+EA069,NA,NA,Missing data,Missing data,"Politics, Class, Economy",Community organization,"For the goals of this analysis, redundant to EA068. Excluded from analyses."
+EA070,NA,NA,NA,NA,"Politics, Class, Economy, Labour","Labour, Gender","Presence/absence variable (i.e. only two categories), hence excluded from analyses. "
+EA071,NA,NA,NA,NA,"Politics, Class, Economy, Labour","Labour, Gender","Presence/absence variable (i.e. only two categories), hence excluded from analyses. "
+EA072,NA,NA,Missing data,Missing data,"Politics, Leadership, Kinship",Community organization,Do societies share the type of nonhereditary political succession?
+EA072,1,NA,Patrilineal heir,Patrilineal heir,"Politics, Leadership, Kinship",Community organization,Absemce of nonhereditary succession. Excluded from analyses.
+EA072,2,NA,Matrilineal heir,Matrilineal heir,"Politics, Leadership, Kinship",Community organization,Absemce of nonhereditary succession. Excluded from analyses.
+EA072,3,3,Nonhered: appointed by auth.,Nonhered: appointed by auth.,"Politics, Leadership, Kinship",Community organization,
+EA072,4,4,Nonhered: seniority,Nonhered: seniority,"Politics, Leadership, Kinship",Community organization,
+EA072,5,5,Nonhered: influence,Nonhered: influence,"Politics, Leadership, Kinship",Community organization,
+EA072,6,6,Nonhered: election,Nonhered: election,"Politics, Leadership, Kinship",Community organization,
+EA072,7,7,Nonhered: inf. consensus,Nonhered: inf. consensus,"Politics, Leadership, Kinship",Community organization,
+EA072,9,NA,Absence of office,Absence of office,"Politics, Leadership, Kinship",Community organization,Absence of any office resembling that of a local headman. Excluded from analyses.
+EA073,NA,NA,Missing data,Missing data,"Politics, Leadership, Kinship",Community organization,Do societies share the type of hereditary political succession?
+EA073,1,1,Son,Son,"Politics, Leadership, Kinship",Community organization,Absence of any office resembling that of a local headman. Excluded from analyses.
+EA073,2,2,Patrilineal heir,Patrilineal heir,"Politics, Leadership, Kinship",Community organization,
+EA073,3,3,Sister's son,Sister's son,"Politics, Leadership, Kinship",Community organization,
+EA073,4,4,Matrilineal heir,Matrilineal heir,"Politics, Leadership, Kinship",Community organization,
+EA073,5,NA,Nonhereditary,Nonhereditary,"Politics, Leadership, Kinship",Community organization,Absence of herefitary succession. Excluded from analyses.
+EA073,9,NA,Absence of office,Absence of office,"Politics, Leadership, Kinship",Community organization,Absence of herefitary succession. Excluded from analyses.
+EA074,NA,NA,Missing data,Missing data,"Property, Wealth Transactions, Economy","Property, Economy",Do societies share the inheritance rules for real property (land)?
+EA074,1,NA,No inher. of real property,No inher. of real property,"Property, Wealth Transactions, Economy","Property, Economy",Absence of rules for the inheritance of real property. Excluded from analyses.
+EA074,2,2,Matrilineal by sister's sons,Matrilineal by sister's sons,"Property, Wealth Transactions, Economy","Property, Economy",
+EA074,3,3,Matrilineal by heirs,Matrilineal by heirs,"Property, Wealth Transactions, Economy","Property, Economy",
+EA074,4,4,"Children, less for daughters","Children, less for daughters","Property, Wealth Transactions, Economy","Property, Economy",
+EA074,5,5,Children,Children,"Property, Wealth Transactions, Economy","Property, Economy",
+EA074,6,6,Patrilineal by heirs,Patrilineal by heirs,"Property, Wealth Transactions, Economy","Property, Economy",
+EA074,7,7,Patrilineal by sons,Patrilineal by sons,"Property, Wealth Transactions, Economy","Property, Economy",
+EA075,NA,NA,Missing data,Missing data,"Property, Wealth Transactions, Economy","Property, Economy",Do societies share the patterns for inheritance distrbution for real property (land)?
+EA075,1,1,Equally distributed,Equally distributed,"Property, Wealth Transactions, Economy","Property, Economy",
+EA075,2,2,Best qualified,Best qualified,"Property, Wealth Transactions, Economy","Property, Economy",
+EA075,3,3,Ultimogeniture,Ultimogeniture,"Property, Wealth Transactions, Economy","Property, Economy",
+EA075,4,4,Primogeniture,Primogeniture,"Property, Wealth Transactions, Economy","Property, Economy",
+EA075,9,NA,No inher. of real property,No inher. of real property,"Property, Wealth Transactions, Economy","Property, Economy",Absence of rules for the inheritance of real property. Excluded from analyses.
+EA076,NA,NA,Missing data,Missing data,"Property, Wealth Transactions, Economy","Property, Economy",Do societies share the inheritance rules for movable property?
+EA076,1,NA,No inher. of mov. property,No inher. of mov. property,"Property, Wealth Transactions, Economy","Property, Economy",Absence of  rules for the inheritance of movable property. Excluded from analyses.
+EA076,2,2,Matrilineal by sister's sons,Matrilineal by sister's sons,"Property, Wealth Transactions, Economy","Property, Economy",
+EA076,3,3,Matrilineal by heirs,Matrilineal by heirs,"Property, Wealth Transactions, Economy","Property, Economy",
+EA076,4,4,"Children, less for daughters","Children, less for daughters","Property, Wealth Transactions, Economy","Property, Economy",
+EA076,5,5,Children,Children,"Property, Wealth Transactions, Economy","Property, Economy",
+EA076,6,6,Patrilineal by heirs,Patrilineal by heirs,"Property, Wealth Transactions, Economy","Property, Economy",
+EA076,7,7,Patrilineal by sons,Patrilineal by sons,"Property, Wealth Transactions, Economy","Property, Economy",
+EA077,NA,NA,Missing data,Missing data,"Property, Wealth Transactions, Economy","Property, Economy",Do societies share the patterns for inheritance distrbution for movable property?
+EA077,1,1,Equally distributed,Equally distributed,"Property, Wealth Transactions, Economy","Property, Economy",
+EA077,2,2,Best qualified,Best qualified,"Property, Wealth Transactions, Economy","Property, Economy",
+EA077,3,3,Ultimogeniture,Ultimogeniture,"Property, Wealth Transactions, Economy","Property, Economy",
+EA077,4,4,Primogeniture,Primogeniture,"Property, Wealth Transactions, Economy","Property, Economy",
+EA077,9,NA,No inher. of mov. prope,No inher. of mov. prope,"Property, Wealth Transactions, Economy","Property, Economy",Absence of rules for the inheritance of movable property. Excluded from analyses.
+EA078,NA,NA,Missing data,Missing data,"Ritual, Gender, Marriage",Ritual,Do societies share the norms of premarital sexual behavior of girls?
+EA078,1,1,Precluded by early marriage,Precluded by early marriage,"Ritual, Gender, Marriage",Ritual,
+EA078,2,2,"Prohibited, strongly sanctioned","Prohibited, strongly sanctioned","Ritual, Gender, Marriage",Ritual,
+EA078,3,3,Prohibited but weakly sanctioned,Prohibited but weakly sanctioned,"Ritual, Gender, Marriage",Ritual,
+EA078,4,4,"Permitted, sanction if pregnancy","Permitted, sanction if pregnancy","Ritual, Gender, Marriage",Ritual,
+EA078,5,5,Trial marriage,Trial marriage,"Ritual, Gender, Marriage",Ritual,
+EA078,6,6,"Permitted, no sanctions","Permitted, no sanctions","Ritual, Gender, Marriage",Ritual,
+EA079,NA,NA,Missing data,Missing data,"Community organization, Housing","Housing, Ecology",Do societies share the attributes (shape) of houses ground plan?
+EA079,1,1,Semicircular,Semicircular,"Community organization, Housing","Housing, Ecology",
+EA079,2,2,Circular,Circular,"Community organization, Housing","Housing, Ecology",
+EA079,3,3,Elliptical,Elliptical,"Community organization, Housing","Housing, Ecology",
+EA079,4,4,Polygonal,Polygonal,"Community organization, Housing","Housing, Ecology",
+EA079,5,5,Rectangular,Rectangular,"Community organization, Housing","Housing, Ecology",
+EA079,6,6,Quadrangular around interior,Quadrangular around interior,"Community organization, Housing","Housing, Ecology",
+EA080,NA,NA,Missing data,Missing data,"Community organization, Housing","Housing, Ecology",Do societies share the construction plans (elevation) for the houses floor level?
+EA080,1,1,Subterranean,Subterranean,"Community organization, Housing","Housing, Ecology",
+EA080,2,2,Floor level with ground,Floor level with ground,"Community organization, Housing","Housing, Ecology",
+EA080,3,3,Elevated slightly,Elevated slightly,"Community organization, Housing","Housing, Ecology",
+EA080,4,4,Raised substantially,Raised substantially,"Community organization, Housing","Housing, Ecology",
+EA081,NA,NA,Missing data,Missing data,"Community organization, Housing, Ecology","Housing, Ecology",Do societies share the main resource/material they use for building walls for the place they live in?
+EA081,1,1,"Stone, stucco or brick","Stone, stucco or brick","Community organization, Housing, Ecology","Housing, Ecology",
+EA081,2,2,"Plaster, clay or similar","Plaster, clay or similar","Community organization, Housing, Ecology","Housing, Ecology",
+EA081,3,3,"Wood, incl. bamboo","Wood, incl. bamboo","Community organization, Housing, Ecology","Housing, Ecology",
+EA081,4,4,Bark,Bark,"Community organization, Housing, Ecology","Housing, Ecology",
+EA081,5,5,Hides or skins,Hides or skins,"Community organization, Housing, Ecology","Housing, Ecology",
+EA081,6,6,Fabric,Fabric,"Community organization, Housing, Ecology","Housing, Ecology",
+EA081,7,7,Mats,Mats,"Community organization, Housing, Ecology","Housing, Ecology",
+EA081,8,8,"Grass, leaves or thatch","Grass, leaves or thatch","Community organization, Housing, Ecology","Housing, Ecology",
+EA081,9,9,"Adobe, clay or brick","Adobe, clay or brick","Community organization, Housing, Ecology","Housing, Ecology",
+EA081,10,10,Open walls,Open walls,"Community organization, Housing, Ecology","Housing, Ecology",
+EA081,12,12,Earth or turf,Earth or turf,"Community organization, Housing, Ecology","Housing, Ecology",
+EA081,13,13,Ice or snow,Ice or snow,"Community organization, Housing, Ecology","Housing, Ecology",
+EA082,NA,NA,Missing data,Missing data,"Community organization, Housing","Housing, Ecology",Do societies share the attributes (shape) of the roof of houses?
+EA082,1,1,Rounded or semi-cylindrical,Rounded or semi-cylindrical,"Community organization, Housing","Housing, Ecology",
+EA082,2,2,Hemispherical,Hemispherical,"Community organization, Housing","Housing, Ecology",
+EA082,3,3,Beehive shaped,Beehive shaped,"Community organization, Housing","Housing, Ecology",
+EA082,4,4,Conical,Conical,"Community organization, Housing","Housing, Ecology",
+EA082,5,5,Semi-hemispherical,Semi-hemispherical,"Community organization, Housing","Housing, Ecology",
+EA082,6,6,One slope,One slope,"Community organization, Housing","Housing, Ecology",
+EA082,7,7,Flat,Flat,"Community organization, Housing","Housing, Ecology",
+EA082,8,8,Two slopes,Two slopes,"Community organization, Housing","Housing, Ecology",
+EA082,9,9,Four slopes,Four slopes,"Community organization, Housing","Housing, Ecology",
+EA083,NA,NA,Missing data,Missing data,"Community organization, Housing, Ecology","Housing, Ecology",Do societies share the main resource/material they use for building the roofs for the place they live in?
+EA083,1,1,Stone or slate,Stone or slate,"Community organization, Housing, Ecology","Housing, Ecology",
+EA083,2,2,"Plaster, clay or similar","Plaster, clay or similar","Community organization, Housing, Ecology","Housing, Ecology",
+EA083,3,3,"Wood, incl. bamboo","Wood, incl. bamboo","Community organization, Housing, Ecology","Housing, Ecology",
+EA083,4,4,Bark,Bark,"Community organization, Housing, Ecology","Housing, Ecology",
+EA083,5,5,Hides or skins,Hides or skins,"Community organization, Housing, Ecology","Housing, Ecology",
+EA083,6,6,Fabric,Fabric,"Community organization, Housing, Ecology","Housing, Ecology",
+EA083,7,7,Mats,Mats,"Community organization, Housing, Ecology","Housing, Ecology",
+EA083,8,8,"Grass, leaves or thatch","Grass, leaves or thatch","Community organization, Housing, Ecology","Housing, Ecology",
+EA083,9,9,Earth or turf,Earth or turf,"Community organization, Housing, Ecology","Housing, Ecology",
+EA083,10,10,Ice or snow,Ice or snow,"Community organization, Housing, Ecology","Housing, Ecology",
+EA083,11,11,Tile or fired brick,Tile or fired brick,"Community organization, Housing, Ecology","Housing, Ecology",
+EA084,NA,NA,NA,NA,"Community organization, Housing","Housing, Ecology","For the goals of this analysis, redundant to EA079. Excluded from analyses."
+EA085,NA,NA,NA,NA,"Community organization, Housing","Housing, Ecology","For the goals of this analysis, redundant to EA080. Excluded from analyses."
+EA086,NA,NA,NA,NA,"Community organization, Housing, Ecology","Housing, Ecology","For the goals of this analysis, redundant to EA081. Excluded from analyses."
+EA087,NA,NA,NA,NA,"Community organization, Housing","Housing, Ecology","For the goals of this analysis, redundant to EA082. Excluded from analyses."
+EA088,NA,NA,NA,NA,"Community organization, Housing, Ecology","Housing, Ecology","For the goals of this analysis, redundant to EA083. Excluded from analyses."
+EA090,NA,NA,Missing data,Missing data,"Politics, Leadership, Economy",Community organization,Do societies share the patterns of political integration with neighbouring communities and/or a larger state?
+EA090,1,1,"Absence, even locally","Absence, even locally","Politics, Leadership, Economy",Community organization,"Left as cateogory, code indicating stand along, non-integrated communities. "
+EA090,2,2,Autonomous communities,Autonomous communities,"Politics, Leadership, Economy",Community organization,
+EA090,3,3,Peace groups among communities,Peace groups among communities,"Politics, Leadership, Economy",Community organization,
+EA090,4,4,Minimal states,Minimal states,"Politics, Leadership, Economy",Community organization,
+EA090,5,5,Little states,Little states,"Politics, Leadership, Economy",Community organization,
+EA090,6,6,States,States,"Politics, Leadership, Economy",Community organization,
+EA090,8,8,Dependent societies,Dependent societies,"Politics, Leadership, Economy",Community organization,
+EA094,NA,NA,NA,NA,"Politics, Leadership",Community organization,"For the goals of this analysis, redundant to the other Political succession classifications. Excluded from analyses."
+EA112,NA,NA,NA,NA,Ritual,Ritual,"For the goals of this analysis, establishing a cultural sharing status is ambigous. Excluded from analyses."
+EA113,NA,NA,NA,NA,"Ritual, Politics",Ritual,"Presence/absence variable (i.e. only two categories), hence excluded from analyses. "
+EA202,NA,NA,NA,NA,Population,Population,"Continous data, not suited for assigning sharing/non-sharing of culture status for pairs of societies. Excluded from analyses."
