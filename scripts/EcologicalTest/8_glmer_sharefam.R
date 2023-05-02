@@ -35,7 +35,6 @@ library(lme4)
 
 load(file=paste0("data/Re_analysisGEbarriers/P1_datamodel/dfmFamIdRPCA/","listw",".rds"))
 #load(file=paste0("data/Re_analysisGEbarriers/P1_datamodel/dfmFamIdRPCA/","nbhoodV210","/","pcaik_","_", traits_of_interest[j],".rds"))
-
 name_folders<-c("nbhoodV1","nbhoodV210") ##  the analysis will be separate for each nbhood structure ie 67 traits * 3 nbs types
 round_dec<-3
 diffRCorder<-list()
@@ -255,12 +254,19 @@ for(i in 1: length(m2))
 dev.off()
 
 
-# listw
+# LISTW
+load(file=paste0("data/Re_analysisGEbarriers/P1_datamodel/dfmFamIdRPCA/","listw",".rds"))
+listw[which(names(listw)%in%"not_sameERCs")]
+
 name_folder<-"nbhoodV1"
 trait_of_interest<-"EA068" 
 
 name_folder<-"nbhoodV210"
-trait_of_interest<-"EA048" #  EA068 and EA048
+trait_of_interest<-"EA048" 
+
+name_folder<-"nbhoodV210"
+trait_of_interest<-"EA068" 
+
 read.csv(file =paste0("data/Re_analysisGEbarriers/P1_datamodel/dfmFamIdRPCA/",name_folder,"/","dfmS2_", "_",trait_of_interest,".csv"), stringsAsFactors = F)->dfm
 load(paste0("data/coordinates/dfnb_EA_",100,".rda")) # dfiEA
 dfm[dfm$pairsoc_S%in%dfiEA$pair_soc,]->dfmSC # this condition is already done, here because before we had different spatial scales
@@ -309,6 +315,16 @@ df_out<-data.frame("Trait"=trait_of_interest, "Name_tr"=vars[vars$id%in%trait_of
 # don t save df out - confusing
 summary(model)
 df_out
+write.csv(df_out, file=paste0("manuscript/Tables_newtree/TableS4d_", trait_of_interest,".csv")) 
+# modify table name
+
 load(file=paste0("data/Re_analysisGEbarriers/P1_datamodel/dfmFamIdRPCA/",name_folder,"/","RCtraits_","_", trait_of_interest,".rds"))
 RCtraits
-
+rownames(RCtraits)<-c("Indirect exposure", "Sqrt geodesic distance",
+                      "Sqrt temperature harshness dissimilarity",
+                      "Sqrt aridity index dissimilarity", "log travel least-cost path cost",
+                      "log temperatureleast-cost path cost", "log aridity least-cost path cost",
+                      "log travel least-cost path length", "log temperature least-cost path length",
+                      "log aridity least-cost path length", "Shared Fam")
+write.csv(RCtraits, file=paste0("manuscript/Tables_newtree/TableS2d_", trait_of_interest,".csv"))
+# modify table name

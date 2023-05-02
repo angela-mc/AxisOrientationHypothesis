@@ -34,9 +34,7 @@ library(pROC)
 library(lme4)
 
 load(file=paste0("data/Re_analysisGEbarriers/P1_datamodel/dfmJagerRPCA/","listw",".rds"))
-# "EA037 nbhoodV210" "EA048 nbhoodV210"   not_sameERCs       not_sameERCs 
 load(file=paste0("data/Re_analysisGEbarriers/P1_datamodel/dfmJagerRPCA/","nbhoodV210","/","pcaik_","_", traits_of_interest[j],".rds"))
-
 name_folders<-c("nbhoodV1","nbhoodV210") ##  the analysis will be separate for each nbhood structure ie 67 traits * 3 nbs types
 round_dec<-3
 diffRCorder<-list()
@@ -269,12 +267,19 @@ length(unique(c(m1,m2))) # 52
   # EA037 and EA048 are in listw for m2, but they are in m1 and are ok
 
 
-
-
 ## listw
+load(file=paste0("data/Re_analysisGEbarriers/P1_datamodel/dfmJagerRPCA_newtree/","listw",".rds"))
+listw[which(names(listw)%in%"not_sameERCs")]
+# "EA068 nbhoodV1" "EA048 nbhoodV210" 
+
+trait_of_interest<-"EA068"
+name_folder<-"nbhoodV1"
+
+trait_of_interest<-"EA048"
 name_folder<-"nbhoodV210"
-trait_of_interest<-"EA048" # EA037 and EA048
-read.csv(file =paste0("data/Re_analysisGEbarriers/P1_datamodel/dfmJagerRPCA/","nbhoodV210","/","dfmS2_", "_",trait_of_interest,".csv"), stringsAsFactors = F)->dfm
+
+
+read.csv(file =paste0("data/Re_analysisGEbarriers/P1_datamodel/dfmJagerRPCA_newtree/",name_folder,"/","dfmS2_", "_",trait_of_interest,".csv"), stringsAsFactors = F)->dfm
 load(paste0("data/coordinates/dfnb_EA_",100,".rda")) # dfiEA
 dfm[dfm$pairsoc_S%in%dfiEA$pair_soc,]->dfmSC # this condition is already done, here because before we had different spatial scales
 model <- glmer(share ~ RC1 + RC2 + RC3 + RC4 + RC5 + 
@@ -318,8 +323,16 @@ df_out<-data.frame("Trait"=trait_of_interest, "Name_tr"=vars[vars$id%in%trait_of
                        #"RC6" = round(sumM$coefficients[7,1], digits=round_dec),
                        #"RC6_pval" = round(sumM$coefficients[7,4], digits=round_dec)
     )
-# don't save df - confusing
 df_out
-summary(model)
-load(file=paste0("data/Re_analysisGEbarriers/P1_datamodel/dfmJagerRPCA/","nbhoodV210","/","RCtraits_","_", trait_of_interest,".rds"))
-RCtraits
+write.csv(df_out, file=paste0("manuscript/Tables_newtree/TableS4c_", trait_of_interest,".csv")) 
+  # modify table name
+
+load(file=paste0("data/Re_analysisGEbarriers/P1_datamodel/dfmJagerRPCA_newtree/",name_folder,"/","RCtraits_","_", trait_of_interest,".rds"))
+rownames(RCtraits)<-c("Indirect exposure", "Log phylo distance","Sqrt geodesic distance",
+                      "Sqrt temperature harshness dissimilarity",
+                      "Sqrt aridity index dissimilarity", "log travel least-cost path cost",
+                      "log temperatureleast-cost path cost", "log aridity least-cost path cost",
+                      "log travel least-cost path length", "log temperature least-cost path length",
+                      "log aridity least-cost path length")
+write.csv(RCtraits, file=paste0("manuscript/Tables_newtree/TableS2c_", trait_of_interest,".csv"))
+  # modify table name
