@@ -80,6 +80,9 @@ hist(workingdf$TempD_MCOSTt, add=T, col=scales::alpha("red4",0.5))
 ### PLOTTING ####
 #################
 
+# merge the one trait in games into ritual - in the figure, category is labelled Ritual, Games
+if( "Games" %in%workingdf$TraitCategory) workingdf[workingdf$TraitCategory%in%"Games",]$TraitCategory<-"Ritual"
+
 # order df by category,  leave 1 empty for category breakup
 df <- workingdf[order(workingdf$TraitCategory),]
 df[1,]->emptydf ; emptydf$signGeoD_LCPsl_MCOSTe<-"white" ; emptydf$signXericD_MCOSTx<-"white" ; emptydf$signTempD_MCOSTt<-"white"
