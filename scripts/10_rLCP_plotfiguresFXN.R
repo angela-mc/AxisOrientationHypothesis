@@ -63,6 +63,37 @@ calcSElines_newtree<-function(dtrial, name_folder, coldown="royalblue1", colup="
 }
 
 
+calcSElines_EDGE<-function(dtrial, name_folder, coldown="royalblue1", colup="indianred1")
+  { dtrial$SEGeoD_LCPsl_MCOSTe<--999 ; dtrial$SEXericD_MCOSTx<- -999 ; dtrial$SETempD_MCOSTt<--999 ; 
+  dtrial$SEPhyD<- -999  ; dtrial$SENbhood<- -999
+  
+  for(i in 1: length(dtrial[,1]))
+    { tvar<-dtrial$Trait[i]
+    load(paste0("data/Re_analysisGEbarriers/P1_datamodel/glmerRCA_EDGE/models/",name_folder,"/model_",tvar,"_","100",".rds"))
+    summary(model)->sumM
+    sumM$coefficients-> sumMc
+    
+    # which RC is what?
+    load(file=paste0("data/Re_analysisGEbarriers/P1_datamodel/dfmEDGERPCA/",name_folder,"/","RCtraits_","_", tvar,".rds")) # RCtraits
+    RCs<-character()
+    
+    RCs[1]<-RCtraits[rownames(RCtraits)%in%"nbhood",]$whichRC[1]
+    RCs[2]<-RCtraits[rownames(RCtraits)%in%"logphyd",]$whichRC[1]
+    RCs[3]<-RCtraits[rownames(RCtraits)%in%"sqrtgeod",]$whichRC[1]
+    RCs[4]<-RCtraits[rownames(RCtraits)%in%"sqrtEDtemp",]$whichRC[1]
+    RCs[5]<-RCtraits[rownames(RCtraits)%in%"sqrtEDxeric",]$whichRC[1]
+    names(RCs)<-c("Nbhood", "PhyD", "GeoD_LCPsl_MCOSTe", "TempD_MCOSTt", "XericD_MCOSTx")
+    
+    dtrial$SEGeoD_LCPsl_MCOSTe[i]<-sumM$coefficients[rownames(sumM$coefficients)%in% RCs[names(RCs)%in%"GeoD_LCPsl_MCOSTe"],][2]
+    dtrial$SEXericD_MCOSTx[i]<-sumM$coefficients[rownames(sumM$coefficients)%in% RCs[names(RCs)%in%"XericD_MCOSTx"],][2]
+    dtrial$SETempD_MCOSTt[i]<-sumM$coefficients[rownames(sumM$coefficients)%in% RCs[names(RCs)%in%"TempD_MCOSTt"],][2]
+    dtrial$SEPhyD[i]<-sumM$coefficients[rownames(sumM$coefficients)%in% RCs[names(RCs)%in%"PhyD"],][2]
+    dtrial$SENbhood[i]<-sumM$coefficients[rownames(sumM$coefficients)%in% RCs[names(RCs)%in%"Nbhood"],][2]
+    
+    }
+  return(dtrial) 
+}
+
 df_moreadds<-function(workingdf, name_folder,method_adj,vars, coldown="royalblue1", colup="indianred1") 
   {# adjust pvalues
   workingdf$GeoD_LCPsl_MCOSTe_pvalue<-p.adjust (workingdf$GeoD_LCPsl_MCOSTe_pval, method = method_adj)
